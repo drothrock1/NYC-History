@@ -1,0 +1,3134 @@
+TNYC Sights
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C60B8120000000000000110
+t1281406994
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C0473C400000000001AA470
+t1275360196
+s1746032
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C0473B9000000000000065C
+t1275360185
+s1628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFE05C8000000000037F880
+t1274938824
+s3668096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C04800D000000000000027E
+t1275363341
+s638
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/../../PinDRed14.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/1913 View.png
+c0000000050855A4300000000000250EE
+t1350916675
+s151790
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/1913 view sm.png
+c00000000503F9F3F000000000001577C
+t1346346815
+s87932
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.h
+c00000000505A71470000000000000113
+t1348104519
+s275
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.m
+c00000000505A714700000000000006D1
+t1348104519
+s1745
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.xib
+c000000005097DAF60000000000009B0E
+t1352129270
+s39694
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/African Burial Grounds sm.png
+c00000000502411730000000000019D43
+t1344541043
+s105795
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/African Burial Grounds.png
+c0000000050855BA10000000000019D43
+t1350917025
+s105795
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AppDelegate.h
+c00000000505A714700000000000001A9
+t1348104519
+s425
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AppDelegate.m
+c00000000505A71470000000000000592
+t1348104519
+s1426
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Astronauts ring bell sm.png
+c000000005037C26B0000000000019BF2
+t1345831531
+s105458
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Astronauts ring bell.png
+c00000000507DD6B6000000000001FA01
+t1350424246
+s129537
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Bank of Manhattan 1930 sm.png
+c000000005037D9D6000000000001142C
+t1345837526
+s70700
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Bank of Manhattan 1930.png
+c00000000507DD7DE000000000001F177
+t1350424542
+s127351
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Boss Tweed sm.jpg
+c00000000503FA0E10000000000002522
+t1346347233
+s9506
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Boss Tweed.png
+c0000000050855D000000000000027AE4
+t1350917376
+s162532
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Bridge plans, 1867 sm.png
+c00000000503F9C650000000000019BF3
+t1346346085
+s105459
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Bridge plans, 1867.png
+c00000000507F20FC000000000003D3D4
+t1350508796
+s250836
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Brooklyn Bridge arches sm.png
+c00000000502428B6000000000002F38A
+t1344546998
+s193418
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Brooklyn Bridge arches.png
+c00000000507F20D6000000000003C8D0
+t1350508758
+s248016
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Brooklyn Bridge.png
+c000000004FF0CB770000000000016022
+t1341180791
+s90146
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Cascading waterfalls sm.png
+c000000004FF0C3B0000000000001BABC
+t1341178800
+s113340
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Cascading waterfalls.png
+c00000000507C8BB9000000000001F422
+t1350339513
+s128034
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Castle Clinton.png
+c000000004FF0D289000000000001F09A
+t1341182601
+s127130
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Charging Bull sm.png
+c00000000503D3970000000000002A1DF
+t1346189680
+s172511
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Charging Bull.png
+c00000000507C886D000000000002AC25
+t1350338669
+s175141
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Chinatown shops sm.png
+c000000004FF1F8CD000000000001BE2A
+t1341257933
+s114218
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Chinatown shops.png
+c0000000050855E7E000000000001F42B
+t1350917758
+s128043
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Chinatown.png
+c000000004FEF77D6000000000001F552
+t1341093846
+s128338
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/City Hall at dusk sm.png
+c000000004FF1F6DE0000000000016673
+t1341257438
+s91763
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/City Hall at dusk.png
+c0000000050855B6E0000000000031B59
+t1350916974
+s203609
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/City Hall.png
+c000000005024105F000000000002033E
+t1344540767
+s131902
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Colony Map from 1600's.png
+c00000000507C868A000000000001C14E
+t1350338186
+s115022
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Colony Map from 1600s.png
+c000000005094011E00000000000280F5
+t1351876894
+s164085
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Constants.h
+c00000000505A71470000000000000146
+t1348104519
+s326
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Customs House sm.png
+c000000005024123F000000000002156B
+t1344541247
+s136555
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Customs House.png
+c00000000507C86C30000000000037077
+t1350338243
+s225399
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Default-568h@2x.png
+c00000000507EE32300000000000048A2
+t1350492963
+s18594
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Default.png
+c00000000509FF5650000000000026271
+t1352660325
+s156273
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.h
+c00000000505A7147000000000000011F
+t1348104519
+s287
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.m
+c000000005097F73200000000000006EF
+t1352136498
+s1775
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.xib
+c000000005097F65C000000000000FD42
+t1352136284
+s64834
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Ellis Island.png
+c0000000050240E6C000000000001653C
+t1344540268
+s91452
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Federal Hall.png
+c000000004FF0BE6E000000000001FD7D
+t1341177454
+s130429
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Fraunces Tavern.png
+c00000000503D3A440000000000022779
+t1346189892
+s141177
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Frederic Bartholdi sm.png
+c00000000503D3BBC000000000001731A
+t1346190268
+s95002
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Frederic Bartholdi.png
+c00000000507C81A80000000000035EEC
+t1350336936
+s220908
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Guiliani and Rumsfeld sm.png
+c000000005037BC1800000000000196EA
+t1345829912
+s104170
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Guiliani and Rumsfeld.png
+c00000000507C8B39000000000001DD3A
+t1350339385
+s122170
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Hamilton gravemarker sm.png
+c000000004FF0C0CB000000000001B531
+t1341178059
+s111921
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Hamilton gravemarker.png
+c00000000507DD5190000000000026806
+t1350423833
+s157702
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.h
+c00000000505A71470000000000000111
+t1348104519
+s273
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.m
+c00000000505A714800000000000006CF
+t1348104520
+s1743
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.xib
+c00000000509AA286000000000000718F
+t1352311430
+s29071
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.h
+c00000000505A71480000000000000112
+t1348104520
+s274
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.m
+c000000005097DC9E00000000000006C8
+t1352129694
+s1736
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.xib
+c000000005097FB93000000000000523B
+t1352137619
+s21051
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon-1024.png
+c0000000050916FEF0000000000129B25
+t1351708655
+s1219365
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon-72.png
+c00000000509170440000000000002A6A
+t1351708740
+s10858
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon-small-50.png
+c000000005091707B00000000000015A4
+t1351708795
+s5540
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon-small.png
+c00000000509170900000000000000841
+t1351708816
+s2113
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon.png
+c000000005091705C0000000000001BAE
+t1351708764
+s7086
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Icon@2x.png
+c000000005091702D0000000000006335
+t1351708717
+s25397
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Immigrants arriving sm.png
+c000000004FEF6C220000000000013F5C
+t1341090850
+s81756
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Immigrants arriving.png
+c00000000507C84B40000000000016E4D
+t1350337716
+s93773
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/InfoScreen.png
+c00000000509401B1000000000002BEB2
+t1351877041
+s179890
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/James Watson House sm.png
+c000000004FF0D373000000000001BD5B
+t1341182835
+s114011
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/James Watson house.png
+c00000000507C84F0000000000001EEE5
+t1350337776
+s126693
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/John Gotti mugshot sm.png
+c00000000501BE9410000000000016852
+t1344006465
+s92242
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/John Gotti mugshot.png
+c0000000050855E560000000000018FAE
+t1350917718
+s102318
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/John Roebling sm.png
+c00000000502425CE0000000000015F00
+t1344546254
+s89856
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/John Roebling.png
+c00000000507F209F000000000002607C
+t1350508703
+s155772
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/LargePhotoViewController.h
+c00000000505A714F0000000000000193
+t1348104527
+s403
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/LargePhotoViewController.m
+c00000000505A714F00000000000004CA
+t1348104527
+s1226
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Liberty Pole sm.png
+c00000000502410A60000000000016C83
+t1344540838
+s93315
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Liberty Pole.png
+c0000000050855BBE0000000000016C83
+t1350917054
+s93315
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Little Italy sm.png
+c00000000503FA60A0000000000019D20
+t1346348554
+s105760
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Little Italy.png
+c0000000050855EA0000000000001CE41
+t1350917792
+s118337
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Memorial pools.png
+c000000004FF0C2D7000000000001A353
+t1341178583
+s107347
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/NYSE doors sm.png
+c000000004FF0BD96000000000002318B
+t1341177238
+s143755
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/NYSE doors.png
+c00000000507DD624000000000002C4E4
+t1350424100
+s181476
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/NYSE.png
+c000000004FF0BCD100000000000215F3
+t1341177041
+s136691
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Nancy Reagan sm.png
+c00000000507C80F000000000000145AC
+t1350336752
+s83372
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Nancy Reagan.png
+c00000000507C80C80000000000028BD7
+t1350336712
+s166871
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/One World Trade Center sm.png
+c000000004FF1F6B10000000000017BC1
+t1341257393
+s97217
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/One World Trade Center.png
+c00000000507C8AC6000000000003DA72
+t1350339270
+s252530
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.h
+c00000000505A714F0000000000000353
+t1348104527
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.m
+c00000000509134460000000000003015
+t1351693382
+s12309
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.xib
+c00000000509AAA33000000000000A4FD
+t1352313395
+s42237
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.h
+c00000000505A714F0000000000000355
+t1348104527
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.m
+c000000005092A1BC000000000000301B
+t1351786940
+s12315
+i"PageTenViewController.h"
+i"Constants.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.xib
+c000000005092A19B0000000000009905
+t1351786907
+s39173
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFiveViewController.h
+c00000000505A71500000000000000351
+t1348104528
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFiveViewController.m
+c0000000050917A1A0000000000003001
+t1351711258
+s12289
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourViewController.h
+c00000000505A71500000000000000351
+t1348104528
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourViewController.m
+c00000000508F2BB50000000000003011
+t1351560117
+s12305
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.h
+c00000000505A71500000000000000359
+t1348104528
+s857
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.m
+c000000005093DCBA0000000000003036
+t1351867578
+s12342
+i"PageFourteenViewController.h"
+i"Constants.h"
+i"PageThirteenViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.xib
+c000000005093DC8F0000000000009A2F
+t1351867535
+s39471
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.h
+c00000000505A71500000000000000351
+t1348104528
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.m
+c0000000050929E5C0000000000003009
+t1351786076
+s12297
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.xib
+c00000000509AAA6A000000000000896D
+t1352313450
+s35181
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageOneViewController.h
+c00000000505A7150000000000000034F
+t1348104528
+s847
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageOneViewController.m
+c000000005090083F0000000000003022
+t1351616575
+s12322
+i"PageFourteenViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.h
+c00000000505A71500000000000000353
+t1348104528
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.m
+c0000000050902771000000000000300D
+t1351624561
+s12301
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.xib
+c00000000509AAA020000000000009E0F
+t1352313346
+s40463
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.h
+c00000000505A7150000000000000034F
+t1348104528
+s847
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.m
+c0000000050902286000000000000300D
+t1351623302
+s12301
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.xib
+c000000005090225B0000000000009F56
+t1351623259
+s40790
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.h
+c00000000505A7150000000000000034F
+t1348104528
+s847
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.m
+c0000000050929E5C0000000000003017
+t1351786076
+s12311
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.xib
+c00000000509BFB460000000000008B8E
+t1352399686
+s35726
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.h
+c00000000505A71500000000000000357
+t1348104528
+s855
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.m
+c000000005092C899000000000000304C
+t1351796889
+s12364
+i"PageThirteenViewController.h"
+i"Constants.h"
+i"PageTwelveViewController.h"
+i"PageFourteenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.xib
+c000000005092C873000000000000A7B4
+t1351796851
+s42932
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThreeViewController.h
+c00000000505A71500000000000000353
+t1348104528
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThreeViewController.m
+c000000005097F8BD0000000000003006
+t1352136893
+s12294
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.h
+c00000000505A71500000000000000355
+t1348104528
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.m
+c00000000509BFBE50000000000003046
+t1352399845
+s12358
+i"PageTwelveViewController.h"
+i"Constants.h"
+i"PageElevenViewController.h"
+i"PageThirteenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.xib
+c00000000509BFBBB00000000000084C5
+t1352399803
+s33989
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwoViewController.h
+c00000000505A7150000000000000034F
+t1348104528
+s847
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwoViewController.m
+c00000000509AA3DC0000000000003006
+t1352311772
+s12294
+i"PageOneViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Samuel Fraunces sm.png
+c00000000503D35B30000000000015167
+t1346188723
+s86375
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Samuel Fraunces.png
+c00000000507C88B80000000000023875
+t1350338744
+s145525
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Shrapnel marks sm.png
+c000000005024252E0000000000015D2B
+t1344546094
+s89387
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Shrapnel marks.png
+c00000000507C5CAA000000000002EF50
+t1350327466
+s192336
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/South Street Seaport.png
+c000000004FF0C520000000000001D7B7
+t1341179168
+s120759
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/South Street Shops.png
+c00000000507F10DF000000000002057E
+t1350504671
+s132478
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/South Street shops sm.png
+c000000004FF0C67B000000000001CEE4
+t1341179515
+s118500
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/St Paul's Chapel sm.png
+c000000005037BF05000000000001D0DE
+t1345830661
+s119006
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/St Paul's Chapel.png
+c00000000507DD4990000000000024C20
+t1350423705
+s150560
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Station before fire sm.png
+c000000004FEF6B340000000000015265
+t1341090612
+s86629
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Station before fire.png
+c00000000507C841B0000000000018C8F
+t1350337563
+s101519
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Statue of Liberty  Head.png
+c000000004FF0CDD10000000000016B3D
+t1341181393
+s92989
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Statue of Liberty.png
+c000000004FF0CC300000000000013417
+t1341180976
+s78871
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Survivor Tree sm.png
+c000000004FF1F691000000000001C89A
+t1341257361
+s116890
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Survivor Tree.png
+c00000000507C8AFB000000000004A6FC
+t1350339323
+s304892
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Ten dollar bill sm.png
+c00000000503E340F00000000000164C0
+t1346253839
+s91328
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Ten dollar bill.png
+c00000000507DD475000000000001960B
+t1350423669
+s103947
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/The Immigrants sm.png
+c000000004FF0D2F50000000000029ACB
+t1341182709
+s170699
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/The Immigrants.png
+c00000000507C864300000000000352E0
+t1350338115
+s217824
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/The Trump Building sm.png
+c000000004FF1F6F00000000000019ED6
+t1341257456
+s106198
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/The Trump Building.png
+c00000000507DD7B40000000000039C22
+t1350424500
+s236578
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.h
+c00000000505A71500000000000000111
+t1348104528
+s273
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.m
+c000000005097DC9E00000000000006DD
+t1352129694
+s1757
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.xib
+c000000005097FAFE0000000000005F88
+t1352137470
+s24456
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Titanic Lighthouse sm.png
+c000000004FF1F6750000000000011CE5
+t1341257333
+s72933
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Titanic Lighthouse.png
+c00000000507F10BE000000000002C657
+t1350504638
+s181847
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Trading floor 1908 sm.png
+c000000005037C24A000000000001A730
+t1345831498
+s108336
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Trading floor 1908.png
+c00000000507DD69D000000000001E3C9
+t1350424221
+s123849
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Trinity Church.png
+c000000004FF0C120000000000002387F
+t1341178144
+s145535
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Trump Building.png
+c0000000050242EA6000000000001C877
+t1344548518
+s116855
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Wall Street bombing sm.png
+c000000004FEF6B6100000000000299BD
+t1341090657
+s170429
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Wall Street bombing.png
+c00000000507C5D0C000000000002E9EC
+t1350327564
+s190956
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washington Farewell sm.png
+c00000000503D3651000000000001494B
+t1346188881
+s84299
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washington Farewell.png
+c00000000507C888D0000000000016FDC
+t1350338701
+s94172
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washington Inauguration.png
+c00000000507C58BB000000000001DD7E
+t1350326459
+s122238
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washington statue sm.png
+c00000000507C5B1D000000000001EBB3
+t1350327069
+s125875
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washington statue.png
+c00000000507C5B310000000000026752
+t1350327089
+s157522
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Washinton Inauguration sm.png
+c00000000507C595D000000000001ABE0
+t1350326621
+s109536
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Woolworth Building.png
+c000000005024168F00000000000194E9
+t1344542351
+s103657
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Woolworth corbel sm.png
+c000000004FEF6AE90000000000019CFF
+t1341090537
+s105727
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/Woolworth corbel.png
+c0000000050855A650000000000029962
+t1350916709
+s170338
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite1.mp3
+c000000005088418C00000000001ECF72
+t1351106956
+s2019186
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite10.mp3
+c00000000508830F80000000000123D7D
+t1351102712
+s1195389
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite11.mp3
+c0000000050782FCF00000000001D493E
+t1350053839
+s1919294
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite12.mp3
+c00000000507832EE000000000010E01A
+t1350054638
+s1105946
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite13.mp3
+c0000000050815E2C0000000000203B87
+t1350655532
+s2112391
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite14.mp3
+c00000000508063240000000000200DD0
+t1350591268
+s2100688
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite2.mp3
+c00000000507D91B100000000001D7F1F
+t1350406577
+s1933087
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite3.mp3
+c00000000507D89D000000000001C235D
+t1350404560
+s1844061
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite4.mp3
+c00000000507DBA51000000000026EC2E
+t1350416977
+s2550830
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite5.mp3
+c00000000507EE3B4000000000028893E
+t1350493108
+s2656574
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite6.mp3
+c00000000507EB26D0000000000212843
+t1350480493
+s2172995
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite7.mp3
+c00000000507EFE1F000000000020C7F0
+t1350499871
+s2148336
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite8.mp3
+c0000000050787347000000000028106D
+t1350071111
+s2625645
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/audiosite9.mp3
+c000000005085568700000000001B2CD6
+t1350915719
+s1780950
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/1913 View.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/1913 view sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/African Burial Grounds sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/African Burial Grounds.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Astronauts ring bell sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Astronauts ring bell.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bank of Manhattan 1930 sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bank of Manhattan 1930.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Boss Tweed sm.jpg
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Boss Tweed.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bridge plans, 1867 sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bridge plans, 1867.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge arches sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge arches.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Cascading waterfalls sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Cascading waterfalls.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Castle Clinton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Charging Bull sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Charging Bull.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown shops sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown shops.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall at dusk sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall at dusk.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Colony Map from 1600's.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Colony Map from 1600s.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Customs House sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Customs House.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Default.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ellis Island.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Federal Hall.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Fraunces Tavern.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Frederic Bartholdi sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Frederic Bartholdi.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Guiliani and Rumsfeld sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Guiliani and Rumsfeld.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Hamilton gravemarker sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Hamilton gravemarker.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-1024.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-72.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-small-50.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-small.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon@2x.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Immigrants arriving sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Immigrants arriving.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/InfoScreen.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/James Watson House sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/James Watson house.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Gotti mugshot sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Gotti mugshot.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Roebling sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Roebling.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Liberty Pole sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Liberty Pole.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Little Italy sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Little Italy.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Memorial pools.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYC Sights
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE doors sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE doors.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Nancy Reagan sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Nancy Reagan.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/One World Trade Center sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/One World Trade Center.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageElevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageFourteenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageNineViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageTenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageThirteenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PageTwelveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed14.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Samuel Fraunces sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Samuel Fraunces.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Shrapnel marks sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Shrapnel marks.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street Seaport.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street Shops.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street shops sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/St Paul's Chapel sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/St Paul's Chapel.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Station before fire sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Station before fire.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Statue of Liberty  Head.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Statue of Liberty.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Survivor Tree sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Survivor Tree.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ten dollar bill sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ten dollar bill.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Immigrants sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Immigrants.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Trump Building sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Trump Building.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Titanic Lighthouse sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Titanic Lighthouse.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trading floor 1908 sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trading floor 1908.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trinity Church.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trump Building.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Wall Street bombing sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Wall Street bombing.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Farewell sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Farewell.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Inauguration.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington statue sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington statue.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washinton Inauguration sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth Building.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth corbel sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth corbel.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite1.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite10.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite11.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite12.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite13.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite14.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite2.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite3.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite4.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite5.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite6.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite7.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite8.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/audiosite9.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/iTunesArtwork.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table10.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table11.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table12.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table13.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table14.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table3.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table4.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table5.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table6.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table7.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table8.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table9.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/NYC Sights
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/NYC Sights.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageElevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFourteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageThirteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTwelveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/NYC Sights
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/NYC Sights.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageElevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFourteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageThirteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTwelveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/MainWindow.xib
+c000000005099C72F000000000000BD52
+t1352255279
+s48466
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageFiveViewController.xib
+c00000000509AA4F4000000000000ADF2
+t1352312052
+s44530
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageFourViewController.xib
+c00000000509028680000000000009E16
+t1351624808
+s40470
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageOneViewController.xib
+c00000000509AAD910000000000009BF4
+t1352314257
+s39924
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageThreeViewController.xib
+c000000005097F8950000000000009AE8
+t1352136853
+s39656
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageTwoViewController.xib
+c00000000509BFC4B0000000000009AF9
+t1352399947
+s39673
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/iTunesArtwork.png
+c000000005091700F00000000000640FF
+t1351708687
+s409855
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/infoViewController.h
+c00000000505A715000000000000001DD
+t1348104528
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/infoViewController.m
+c00000000509FF4AE00000000000022EA
+t1352660142
+s8938
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"HoursViewController.h"
+i"AboutViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/main.m
+c00000000505A7150000000000000017F
+t1348104528
+s383
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/mapViewController.h
+c00000000505A715000000000000002FC
+t1348104528
+s764
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/mapViewController.m
+c000000005093DEC40000000000005C9A
+t1351868100
+s23706
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"PageThirteenViewController.h"
+i"PageFourteenViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table1.png
+c00000000501A81CE0000000000000CE5
+t1343914446
+s3301
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table10.png
+c00000000502538C1000000000000109A
+t1344616641
+s4250
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table11.png
+c00000000501A8E940000000000000EA5
+t1343917716
+s3749
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table12.png
+c0000000050253A050000000000000B33
+t1344616965
+s2867
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table13.png
+c0000000050253A7C0000000000000E25
+t1344617084
+s3621
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table14.png
+c0000000050253AF000000000000010E8
+t1344617200
+s4328
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table2.png
+c00000000502539310000000000000C1D
+t1344616753
+s3101
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table3.png
+c00000000502538570000000000001031
+t1344616535
+s4145
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table4.png
+c00000000503D41770000000000000FF6
+t1346191735
+s4086
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table5.png
+c00000000501A87560000000000001116
+t1343915862
+s4374
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table6.png
+c00000000501A88E100000000000011E9
+t1343916257
+s4585
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table7.png
+c00000000502537B90000000000001191
+t1344616377
+s4497
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table8.png
+c00000000501A89B20000000000000DDE
+t1343916466
+s3550
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/table9.png
+c00000000502539AF0000000000000FD6
+t1344616879
+s4054
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/tableViewController.h
+c00000000505A715000000000000001E0
+t1348104528
+s480
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/tableViewController.m
+c00000000508ADFD30000000000002C92
+t1351278547
+s11410
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"PageThirteenViewController.h"
+i"PageFourteenViewController.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotation.h
+c000000005084773C0000000000000382
+t1350858556
+s898
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotation.m
+c00000000505A71500000000000000289
+t1348104528
+s649
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotationView.h
+c00000000505A71500000000000000176
+t1348104528
+s374
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotationView.m
+c000000005084777A0000000000001B0F
+t1350858618
+s6927
+i"wwAnnotationView.h"
+
+N/Users/Diane/Library/MobileDevice/Provisioning Profiles/EFEFA3DA-9E19-4D68-A6DA-19C95A5E7734.mobileprovision
+c000000004FB31AE00000000000001C26
+t1337137888
+s7206
+
+N/var/folders/y0/2q_h03tj36b8dcxxhdrblvv80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ardnlwkmvpqxcgbydjlabfqtapvb/Prefix.pch.gch
+t2
+s0
+
+N/var/folders/y0/2q_h03tj36b8dcxxhdrblvv80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flrrtxnvkkxapraurqxnzsonrzxw/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000005099BF5700000000000003CD
+t1352253271
+s973
+
+CCodeSign "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app"
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/AboutViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/AppDelegate.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/DirectionsViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/HelpViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/HoursViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/LargePhotoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/LargePhotoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageEightViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageElevenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFiveViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFiveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFourViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageFourteenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageNineViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageOneViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageOneViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageSevenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageSixViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageThirteenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageThreeViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThreeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTwelveViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/PageTwoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/TipsViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/infoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/infoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/main.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/mapViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/mapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/tableViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/tableViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/wwAnnotation.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/wwAnnotationView.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotationView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/AboutViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/AppDelegate.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/DirectionsViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/HelpViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/HoursViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/LargePhotoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/LargePhotoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageEightViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageElevenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFiveViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFiveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFourViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageFourteenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageNineViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageOneViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageOneViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageSevenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageSixViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageThirteenViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageThreeViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThreeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTwelveViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/PageTwoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/TipsViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/infoViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/infoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/main.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/mapViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/mapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/tableViewController.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/tableViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/wwAnnotation.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/wwAnnotationView.o" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/wwAnnotationView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/AboutViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/DirectionsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HelpViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/HoursViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageEightViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageElevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageFourteenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageNineViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageSixViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageThirteenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/PageTwelveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/TipsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageFiveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageFourViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageOneViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageThreeViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/en.lproj/PageTwoViewController.xib"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/1913 View.png" "1913 View.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/1913 view sm.png" "1913 view sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/African Burial Grounds sm.png" "African Burial Grounds sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/African Burial Grounds.png" "African Burial Grounds.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Astronauts ring bell sm.png" "Astronauts ring bell sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Astronauts ring bell.png" "Astronauts ring bell.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bank of Manhattan 1930 sm.png" "Bank of Manhattan 1930 sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bank of Manhattan 1930.png" "Bank of Manhattan 1930.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Boss Tweed.png" "Boss Tweed.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bridge plans, 1867 sm.png" "Bridge plans, 1867 sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Bridge plans, 1867.png" "Bridge plans, 1867.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge arches sm.png" "Brooklyn Bridge arches sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge arches.png" "Brooklyn Bridge arches.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Brooklyn Bridge.png" "Brooklyn Bridge.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Cascading waterfalls sm.png" "Cascading waterfalls sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Cascading waterfalls.png" "Cascading waterfalls.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Castle Clinton.png" "Castle Clinton.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Charging Bull sm.png" "Charging Bull sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Charging Bull.png" "Charging Bull.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown shops sm.png" "Chinatown shops sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown shops.png" "Chinatown shops.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Chinatown.png" Chinatown.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall at dusk sm.png" "City Hall at dusk sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall at dusk.png" "City Hall at dusk.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/City Hall.png" "City Hall.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Colony Map from 1600's.png" "Colony Map from 1600's.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Colony Map from 1600s.png" "Colony Map from 1600s.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Customs House sm.png" "Customs House sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Customs House.png" "Customs House.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Default-568h@2x.png" Default-568h@2x.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ellis Island.png" "Ellis Island.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Federal Hall.png" "Federal Hall.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Fraunces Tavern.png" "Fraunces Tavern.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Frederic Bartholdi sm.png" "Frederic Bartholdi sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Frederic Bartholdi.png" "Frederic Bartholdi.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Guiliani and Rumsfeld sm.png" "Guiliani and Rumsfeld sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Guiliani and Rumsfeld.png" "Guiliani and Rumsfeld.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Hamilton gravemarker sm.png" "Hamilton gravemarker sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Hamilton gravemarker.png" "Hamilton gravemarker.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-1024.png" Icon-1024.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-72.png" Icon-72.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-small-50.png" Icon-small-50.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon-small.png" Icon-small.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Icon@2x.png" Icon@2x.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Immigrants arriving sm.png" "Immigrants arriving sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Immigrants arriving.png" "Immigrants arriving.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/InfoScreen.png" InfoScreen.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Infobutton.png" Infobutton.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/James Watson House sm.png" "James Watson House sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/James Watson house.png" "James Watson house.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Gotti mugshot sm.png" "John Gotti mugshot sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Gotti mugshot.png" "John Gotti mugshot.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Roebling sm.png" "John Roebling sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/John Roebling.png" "John Roebling.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Liberty Pole sm.png" "Liberty Pole sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Liberty Pole.png" "Liberty Pole.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Little Italy sm.png" "Little Italy sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Little Italy.png" "Little Italy.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/MapViewIcon.png" MapViewIcon.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Memorial pools.png" "Memorial pools.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE doors sm.png" "NYSE doors sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE doors.png" "NYSE doors.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYSE.png" NYSE.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Nancy Reagan sm.png" "Nancy Reagan sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Nancy Reagan.png" "Nancy Reagan.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/One World Trade Center sm.png" "One World Trade Center sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/One World Trade Center.png" "One World Trade Center.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed1.png" PinDRed1.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed10.png" PinDRed10.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed11.png" PinDRed11.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed12.png" PinDRed12.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed13.png" PinDRed13.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed14.png" ../../PinDRed14.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed2.png" PinDRed2.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed3.png" PinDRed3.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed4.png" PinDRed4.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed5.png" PinDRed5.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed6.png" PinDRed6.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed7.png" PinDRed7.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed8.png" PinDRed8.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/PinDRed9.png" PinDRed9.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Playbutton.png" Playbutton.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Samuel Fraunces sm.png" "Samuel Fraunces sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Samuel Fraunces.png" "Samuel Fraunces.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Shrapnel marks sm.png" "Shrapnel marks sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Shrapnel marks.png" "Shrapnel marks.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street Seaport.png" "South Street Seaport.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street Shops.png" "South Street Shops.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/South Street shops sm.png" "South Street shops sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/St Paul's Chapel sm.png" "St Paul's Chapel sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/St Paul's Chapel.png" "St Paul's Chapel.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Station before fire sm.png" "Station before fire sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Station before fire.png" "Station before fire.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Statue of Liberty  Head.png" "Statue of Liberty  Head.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Statue of Liberty.png" "Statue of Liberty.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Survivor Tree sm.png" "Survivor Tree sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Survivor Tree.png" "Survivor Tree.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/TableViewIcon.png" TableViewIcon.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ten dollar bill sm.png" "Ten dollar bill sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Ten dollar bill.png" "Ten dollar bill.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Immigrants sm.png" "The Immigrants sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Immigrants.png" "The Immigrants.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Trump Building sm.png" "The Trump Building sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/The Trump Building.png" "The Trump Building.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Titanic Lighthouse sm.png" "Titanic Lighthouse sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Titanic Lighthouse.png" "Titanic Lighthouse.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trading floor 1908 sm.png" "Trading floor 1908 sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trading floor 1908.png" "Trading floor 1908.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trinity Church.png" "Trinity Church.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Trump Building.png" "Trump Building.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Wall Street bombing sm.png" "Wall Street bombing sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Wall Street bombing.png" "Wall Street bombing.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Farewell sm.png" "Washington Farewell sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Farewell.png" "Washington Farewell.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington Inauguration.png" "Washington Inauguration.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington statue sm.png" "Washington statue sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washington statue.png" "Washington statue.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Washinton Inauguration sm.png" "Washinton Inauguration sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth Building.png" "Woolworth Building.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth corbel sm.png" "Woolworth corbel sm.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Woolworth corbel.png" "Woolworth corbel.png"
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/bp_btn1.png" bp_btn1.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/bp_btn2.png" bp_btn2.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/iTunesArtwork.png" iTunesArtwork.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/pausebutton.png" pausebutton.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table1.png" table1.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table10.png" table10.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table11.png" table11.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table12.png" table12.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table13.png" table13.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table14.png" table14.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table2.png" table2.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table3.png" table3.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table4.png" table4.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table5.png" table5.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table6.png" table6.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table7.png" table7.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table8.png" table8.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/table9.png" table9.png
+r0
+
+CCopyPNGFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/volume_up.png" volume_up.png
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/Boss Tweed sm.jpg" "Boss Tweed sm.jpg"
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite1.mp3" audiosite1.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite10.mp3" audiosite10.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite11.mp3" audiosite11.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite12.mp3" audiosite12.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite13.mp3" audiosite13.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite14.mp3" audiosite14.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite2.mp3" audiosite2.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite3.mp3" audiosite3.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite4.mp3" audiosite4.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite5.mp3" audiosite5.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite6.mp3" audiosite6.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite7.mp3" audiosite7.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite8.mp3" audiosite8.mp3
+r0
+
+CCpResource "build/Distribution-iphoneos/NYC Sights.app/audiosite9.mp3" audiosite9.mp3
+r0
+
+CCreateUniversalBinary "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYC Sights" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app.dSYM" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/NYC Sights"
+r0
+
+CLd "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv6/NYC Sights" normal armv6
+r0
+
+CLd "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/Objects-normal/armv7/NYC Sights" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/y0/2q_h03tj36b8dcxxhdrblvv80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ardnlwkmvpqxcgbydjlabfqtapvb/Prefix.pch.gch Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/y0/2q_h03tj36b8dcxxhdrblvv80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flrrtxnvkkxapraurqxnzsonrzxw/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/Diane/Library/MobileDevice/Provisioning Profiles/EFEFA3DA-9E19-4D68-A6DA-19C95A5E7734.mobileprovision" "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/NYC Sights.build/Distribution-iphoneos/NYC Sights.build/NYC Sights.xcent"
+r0
+
+CTouch "/Users/Diane/Desktop/Apps 4Q2012/NYC Sights App/NYC Sights Dev/build/Distribution-iphoneos/NYC Sights.app"
+r0
+
