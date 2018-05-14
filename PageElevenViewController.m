@@ -104,7 +104,7 @@
 	UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"back12.png"],[UIImage imageNamed:@"forward12.png"],nil]];
 	[segmentedControl addTarget:self action:@selector(segmentAction:) forControlEvents:UIControlEventValueChanged];
 	segmentedControl.frame = CGRectMake(40, 0, 60, kCustomButtonHeight);
-	segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
+	//segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	segmentedControl.momentary = YES;
 	//segmentedControl.tintColor = [UIColor darkGrayColor];
 	defaultTintColor = [segmentedControl.tintColor retain];	// keep track of this for later

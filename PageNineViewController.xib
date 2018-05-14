@@ -1,490 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="8.00">
-	<data>
-		<int key="IBDocument.SystemTarget">1536</int>
-		<string key="IBDocument.SystemVersion">13F1911</string>
-		<string key="IBDocument.InterfaceBuilderVersion">6751</string>
-		<string key="IBDocument.AppKitVersion">1265.21</string>
-		<string key="IBDocument.HIToolboxVersion">698.00</string>
-		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			<string key="NS.object.0">6736</string>
-		</object>
-		<array key="IBDocument.IntegratedClassDependencies">
-			<string>IBProxyObject</string>
-			<string>IBUIButton</string>
-			<string>IBUILabel</string>
-			<string>IBUIScrollView</string>
-			<string>IBUIView</string>
-		</array>
-		<array key="IBDocument.PluginDependencies">
-			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-		</array>
-		<object class="NSMutableDictionary" key="IBDocument.Metadata">
-			<string key="NS.key.0">PluginDependencyRecalculationVersion</string>
-			<integer value="1" key="NS.object.0"/>
-		</object>
-		<array class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
-			<object class="IBProxyObject" id="372490531">
-				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBProxyObject" id="975951072">
-				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBUIView" id="191373211">
-				<nil key="NSNextResponder"/>
-				<int key="NSvFlags">274</int>
-				<array class="NSMutableArray" key="NSSubviews">
-					<object class="IBUIScrollView" id="322475501">
-						<reference key="NSNextResponder" ref="191373211"/>
-						<int key="NSvFlags">274</int>
-						<array class="NSMutableArray" key="NSSubviews">
-							<object class="IBUILabel" id="77065519">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{0, 213}, {320, 29}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<object class="NSColor" key="IBUIBackgroundColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MCAwLjE0OTAxOTYwNzggMC4zOTIxNTY4NjI3AA</bytes>
-								</object>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">7</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">  9. The Trump Building</string>
-								<object class="NSColor" key="IBUITextColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAxIDEAA</bytes>
-								</object>
-								<nil key="IBUIHighlightedColor"/>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<object class="IBUIFontDescription" key="IBUIFontDescription">
-									<string key="name">Georgia</string>
-									<string key="family">Georgia</string>
-									<int key="traits">0</int>
-									<double key="pointSize">17</double>
-								</object>
-								<object class="NSFont" key="IBUIFont">
-									<string key="NSName">Georgia</string>
-									<double key="NSSize">17</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="useAutomaticPreferredMaxLayoutWidth">YES</bool>
-							</object>
-							<object class="IBUILabel" id="120340969">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{20, 1789}, {280, 130}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<object class="NSColor" key="IBUIBackgroundColor" id="441318481">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MCAwAA</bytes>
-								</object>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">Directions to next site: Continue east on Wall Street. Turn left on South Street, and the South Street Seaport is about four blocks away – the ships will be on the right, the museum on the left.</string>
-								<object class="NSColor" key="IBUITextColor" id="968755840">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMAA</bytes>
-								</object>
-								<nil key="IBUIHighlightedColor"/>
-								<string key="IBUIShadowOffset">{0, 0}</string>
-								<float key="IBUIMinimumFontSize">18</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<object class="IBUIFontDescription" key="IBUIFontDescription">
-									<string key="name">Georgia-Italic</string>
-									<string key="family">Georgia</string>
-									<int key="traits">1</int>
-									<double key="pointSize">16</double>
-								</object>
-								<object class="NSFont" key="IBUIFont">
-									<string key="NSName">Georgia-Italic</string>
-									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">280</double>
-							</object>
-							<object class="IBUILabel" id="597579527">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{10, 237}, {300, 430}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<reference key="IBUIBackgroundColor" ref="441318481"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">QW5kIHRoZSByYWNlIHdhcyBvbiEgQmFjayBpbiB0aGUgbGF0ZSAxOTIw4oCZcywgd2hlbiB0aGUgV29v
-bHdvcnRoIGJ1aWxkaW5nIHdhcyBzdGlsbCB0aGUgdGFsbGVzdCBpbiB0aGUgd29ybGQsIHNldmVyYWwg
-Y29tcGFuaWVzIHdhbnRlZCB0byB0YWtlIHRoYXQgY2xhaW0gYXdheSBmcm9tIEZyYW5rIFdvb2x3b3J0
-aC4gVHdvIGNvbXBhbmllcyBtYWRlIGEgZnJlbnppZWQgZGFzaCBmb3IgdGhlIHRpdGxlIOKAkyBCYW5r
-IG9mIE1hbmhhdHRhbiBhbmQgQ2hyeXNsZXIuIA0NQmFuayBvZiBNYW5oYXR0YW4gcmVhY2hlZCB0aGUg
-ZmluaXNoIGxpbmUgZmlyc3QuIFN0YW5kaW5nIGFuIGltcHJlc3NpdmUgOTI3IGZlZXQgdGFsbCwgdGhp
-cyBidWlsZGluZyB3YXMgY29uc3RydWN0ZWQgaW4gYSBtZXJlIDExIG1vbnRocyEgSC4gQ3JhaWcgU2V2
-ZXJhbmNlIHdhcyB0aGUgbWFpbiBhcmNoaXRlY3QuIEJ1dCBhbGFzLCBCYW5rIG9mIE1hbmhhdHRhbiBo
-ZWxkIHRoZSByZWNvcmQgZm9yIGp1c3Qgb25lIG1vbnRoIOKAkyBNYXkgb2YgMTkzMCDigJMgdW50aWwg
-aXQgd2FzIHN1cnBhc3NlZCBieSB0aGUgQ2hyeXNsZXIgQnVpbGRpbmcuIFRoZSBjb25zdHJ1Y3Rpb24g
-Y3JldyBidWlsdCBhIHNwaXJlIHNlY3JldGx5IGluc2lkZSB0aGUgQ2hyeXNsZXIgQnVpbGRpbmcuIFdo
-ZW4gdGhleSBtb3VudGVkIHRoZSBzcGlyZSwgdGhlIENocnlzbGVyIEJ1aWxkaW5n4oCZcyBoZWlnaHQg
-c29hcmVkIGZyb20gdGhlIHBsYW5uZWQgOTI1IGZlZXQgdXAgdG8gMTA0NiBmZWV0Lg0</string>
-								<reference key="IBUITextColor" ref="968755840"/>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<object class="IBUIFontDescription" key="IBUIFontDescription" id="628178884">
-									<string key="name">Georgia</string>
-									<string key="family">Georgia</string>
-									<int key="traits">0</int>
-									<double key="pointSize">16</double>
-								</object>
-								<object class="NSFont" key="IBUIFont" id="143026725">
-									<string key="NSName">Georgia</string>
-									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUILabel" id="275214440">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{10, 953}, {300, 500}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<reference key="IBUIBackgroundColor" ref="441318481"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">QmFuayBvZiBNYW5oYXR0YW4gYXJjaGl0ZWN0cyB3ZXJlIHVuZGVyc3RhbmRhYmx5IG1pZmZlZCwgYW5k
-IHdyb3RlIGEgbmV3c3BhcGVyIGVkaXRvcmlhbCB0aGF0IHRoZWlyIGJ1aWxkaW5nIHdhcyByZWFsbHkg
-dGhlIHRhbGxlc3QgYmVjYXVzZSBpdCBoYWQgdGhlIGhpZ2hlc3QgdXNhYmxlIHNwYWNlLiBCb3RoIHNp
-ZGXigJlzIGFyZ3VtZW50cyB3ZXJlIG1vb3QsIHRob3VnaDsgdGhlIEVtcGlyZSBTdGF0ZSBCdWlsZGlu
-ZyBzb3VuZGx5IHN1cnBhc3NlZCBib3RoIGJ1aWxkaW5ncyBpbiBoZWlnaHQgbGVzcyB0aGFuIGEgeWVh
-ciBsYXRlci4NDU9uIE1heSAyMCwgMTk0NiwgYSBVLlMuIEFybXkgamV0IHN0cnVjayB0aGUgNTh0aCBm
-bG9vciBvZiB0aGUgYnVpbGRpbmcuIEx1Y2tpbHksIHRoZSBpbmNpZGVudCB3YXMgYXQgODoxMFBNIGFu
-ZCB0aGVyZSB3ZXJlIG5vIGNpdmlsaWFuIGNhc3VhbHRpZXMgaW4gdGhlIGJ1aWxkaW5nIG9yIG9uIHRo
-ZSBzdHJlZXQgYmVsb3cuIEFsbCBmaXZlIG9uIGJvYXJkIHRoZSBqZXQgd2VyZSBraWxsZWQuIFRoZSBh
-Y2NpZGVudCB3YXMgYmxhbWVkIG9uIGZvZyBzbyB0aGljayBpdCBzZXZlcmVseSBpbXBhaXJlZCB2aXNp
-YmlsaXR5LiANDU5ldyBZb3JrIHJlYWwgZXN0YXRlIHR5Y29vbiBEb25hbGQgVHJ1bXAgYm91Z2h0IHRo
-ZSBidWlsZGluZyBpbiAxOTk1LCBmb3IgJDFNPyBUaGF04oCZcyB3aGF0IGhlIGhhcyByZXBvcnRlZCBp
-biBoaXMgYm9va3MgYW5kIG9uIFRWLiBUaGUgY29tbWVyY2lhbCBzcGFjZSBpcyB3b3J0aCBhYm91dCAk
-MzAwTS0kNTAwTS4gV2hhdCB3YXMgb3JpZ2luYWxseSBuYW1lZCB0aGUgQmFuayBvZiBNYW5oYXR0YW4g
-VHJ1c3QgQnVpbGRpbmcsIHRoZW4gNDAgV2FsbCBTdHJlZXQsIGlzIG5vdyBUaGUgVHJ1bXAgQnVpbGRp
-bmcuDQ</string>
-								<object class="NSColor" key="IBUITextColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMAA</bytes>
-								</object>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<reference key="IBUIFontDescription" ref="628178884"/>
-								<reference key="IBUIFont" ref="143026725"/>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUIButton" id="368579505">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrameSize">{320, 213}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<reference key="IBUIBackgroundColor" ref="441318481"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<object class="NSColor" key="IBUIHighlightedTitleColor" id="13664159">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MQA</bytes>
-								</object>
-								<string key="IBUINormalTitle">Trump Building</string>
-								<object class="NSColor" key="IBUINormalTitleShadowColor" id="118070213">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MC41AA</bytes>
-								</object>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Trump Building.png</string>
-								</object>
-								<object class="IBUIFontDescription" key="IBUIFontDescription" id="589241646">
-									<string key="name">Helvetica-Bold</string>
-									<string key="family">Helvetica</string>
-									<int key="traits">2</int>
-									<double key="pointSize">15</double>
-								</object>
-								<object class="NSFont" key="IBUIFont" id="341990099">
-									<string key="NSName">Helvetica-Bold</string>
-									<double key="NSSize">15</double>
-									<int key="NSfFlags">16</int>
-								</object>
-							</object>
-							<object class="IBUIButton" id="625121140">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{50, 653}, {221, 280}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<reference key="IBUIHighlightedTitleColor" ref="13664159"/>
-								<string key="IBUINormalTitle">Bank of Manhattan 1930</string>
-								<reference key="IBUINormalTitleShadowColor" ref="118070213"/>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Bank of Manhattan 1930.png</string>
-								</object>
-								<reference key="IBUIFontDescription" ref="589241646"/>
-								<reference key="IBUIFont" ref="341990099"/>
-							</object>
-							<object class="IBUIButton" id="491609757">
-								<reference key="NSNextResponder" ref="322475501"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{60, 1456}, {200, 298}}</string>
-								<reference key="NSSuperview" ref="322475501"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<reference key="IBUIHighlightedTitleColor" ref="13664159"/>
-								<string key="IBUINormalTitle">The Trump Building</string>
-								<reference key="IBUINormalTitleShadowColor" ref="118070213"/>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">The Trump Building.png</string>
-								</object>
-								<reference key="IBUIFontDescription" ref="589241646"/>
-								<reference key="IBUIFont" ref="341990099"/>
-							</object>
-						</array>
-						<string key="NSFrameSize">{320, 2150}</string>
-						<reference key="NSSuperview" ref="191373211"/>
-						<reference key="IBUIBackgroundColor" ref="441318481"/>
-						<bool key="IBUIClipsSubviews">YES</bool>
-						<bool key="IBUIMultipleTouchEnabled">YES</bool>
-						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<bool key="IBUIBounces">NO</bool>
-						<bool key="IBUIBouncesZoom">NO</bool>
-					</object>
-				</array>
-				<string key="NSFrameSize">{320, 2150}</string>
-				<object class="NSColor" key="IBUIBackgroundColor">
-					<int key="NSColorSpace">3</int>
-					<bytes key="NSWhite">MQA</bytes>
-					<object class="NSColorSpace" key="NSCustomColorSpace">
-						<int key="NSID">2</int>
-					</object>
-				</object>
-				<object class="IBUISimulatedSizeMetrics" key="IBUISimulatedDestinationMetrics">
-					<string key="IBUISimulatedSizeMetricsClass">IBUISimulatedFreeformSizeMetricsSentinel</string>
-					<string key="IBUIDisplayName">Freeform</string>
-				</object>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-		</array>
-		<object class="IBObjectContainer" key="IBDocument.Objects">
-			<array key="connectionRecords">
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">view</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="191373211"/>
-					</object>
-					<int key="connectionID">3</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">scrollView</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="322475501"/>
-					</object>
-					<int key="connectionID">10</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="368579505"/>
-						<reference key="destination" ref="372490531"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">11</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="625121140"/>
-						<reference key="destination" ref="372490531"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">15</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="491609757"/>
-						<reference key="destination" ref="372490531"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">18</int>
-				</object>
-			</array>
-			<object class="IBMutableOrderedSet" key="objectRecords">
-				<array key="orderedObjects">
-					<object class="IBObjectRecord">
-						<int key="objectID">0</int>
-						<array key="object" id="0"/>
-						<reference key="children" ref="1000"/>
-						<nil key="parent"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">1</int>
-						<reference key="object" ref="191373211"/>
-						<array class="NSMutableArray" key="children">
-							<reference ref="322475501"/>
-						</array>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-1</int>
-						<reference key="object" ref="372490531"/>
-						<reference key="parent" ref="0"/>
-						<string key="objectName">File's Owner</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-2</int>
-						<reference key="object" ref="975951072"/>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">4</int>
-						<reference key="object" ref="322475501"/>
-						<array class="NSMutableArray" key="children">
-							<reference ref="77065519"/>
-							<reference ref="368579505"/>
-							<reference ref="597579527"/>
-							<reference ref="625121140"/>
-							<reference ref="275214440"/>
-							<reference ref="491609757"/>
-							<reference ref="120340969"/>
-						</array>
-						<reference key="parent" ref="191373211"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">9</int>
-						<reference key="object" ref="77065519"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">8</int>
-						<reference key="object" ref="597579527"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">7</int>
-						<reference key="object" ref="368579505"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">5</int>
-						<reference key="object" ref="120340969"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">14</int>
-						<reference key="object" ref="625121140"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">16</int>
-						<reference key="object" ref="275214440"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">17</int>
-						<reference key="object" ref="491609757"/>
-						<reference key="parent" ref="322475501"/>
-					</object>
-				</array>
-			</object>
-			<dictionary class="NSMutableDictionary" key="flattenedProperties">
-				<string key="-1.CustomClassName">PageNineViewController</string>
-				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="-2.CustomClassName">UIResponder</string>
-				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="14.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="16.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="17.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<reference key="4.IBNSViewMetadataGestureRecognizers" ref="0"/>
-				<string key="4.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="5.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="7.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="8.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="9.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			</dictionary>
-			<dictionary class="NSMutableDictionary" key="unlocalizedProperties"/>
-			<nil key="activeLocalization"/>
-			<dictionary class="NSMutableDictionary" key="localizations"/>
-			<nil key="sourceID"/>
-			<int key="maxID">20</int>
-		</object>
-		<object class="IBClassDescriber" key="IBDocument.Classes"/>
-		<int key="IBDocument.localizationMode">0</int>
-		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
-		<bool key="IBDocument.previouslyAttemptedUpgradeToXcode5">NO</bool>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
-			<integer value="4600" key="NS.object.0"/>
-		</object>
-		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
-		<int key="IBDocument.defaultPropertyAccessControl">3</int>
-		<dictionary class="NSMutableDictionary" key="IBDocument.LastKnownImageSizes">
-			<string key="Bank of Manhattan 1930.png">{475, 600}</string>
-			<string key="The Trump Building.png">{1296, 1936}</string>
-			<string key="Trump Building.png">{994, 664}</string>
-		</dictionary>
-	</data>
-</archive>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageNineViewController">
+            <connections>
+                <outlet property="scrollView" destination="4" id="10"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="2150"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="4">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="2150"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  9. The Trump Building" lineBreakMode="tailTruncation" minimumFontSize="10" id="9">
+                            <rect key="frame" x="0.0" y="213" width="320" height="29"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.14901960780000001" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="5">
+                            <rect key="frame" x="20" y="1789" width="280" height="130"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Directions: Continue east on Wall Street. Turn left on South Street, and the South Street Seaport is about four blocks away – the ships will be on the right, the museum on the left.</string>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <size key="shadowOffset" width="0.0" height="0.0"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="16">
+                            <rect key="frame" x="10" y="957" width="300" height="500"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Bank of Manhattan architects were understandably miffed, and wrote a newspaper editorial that their building was really the tallest because it had the highest usable space. Both side’s arguments were moot, though; the Empire State Building soundly surpassed both buildings in height less than a year later.On May 20, 1946, a U.S. Army jet struck the 58th floor of the building. Luckily, the incident was at 8:10PM and there were no civilian casualties in the building or on the street below. All five on board the jet were killed. The accident was blamed on fog so thick it severely impaired visibility. New York real estate tycoon Donald Trump bought the building in 1995, for $1M? That’s what he has reported in his books and on TV. The commercial space is worth about $300M-$500M. What was originally named the Bank of Manhattan Trust Building, then 40 Wall Street, is now The Trump Building.</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="7">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="213"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Trump Building" image="Trump Building.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="11"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="14">
+                            <rect key="frame" x="50" y="657" width="221" height="280"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Bank of Manhattan 1930" image="Bank of Manhattan 1930.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="15"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="17">
+                            <rect key="frame" x="60" y="1461" width="200" height="298"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="The Trump Building" image="The Trump Building.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="18"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="8">
+                            <rect key="frame" x="10" y="257" width="300" height="380"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">And the race was on! Back in the late 1920’s, when the Woolworth building was still the tallest in the world, several companies wanted to take that claim away from Frank Woolworth. Two companies made a frenzied dash for the title – Bank of Manhattan and Chrysler. Bank of Manhattan reached the finish line first. Standing an impressive 927 feet tall, this building was constructed in a mere 11 months! H. Craig Severance was the main architect. But alas, Bank of Manhattan held the record for just one month – May of 1930 – until it was surpassed by the Chrysler Building. The construction crew built a spire secretly inside the Chrysler Building. When they mounted the spire, the Chrysler Building’s height soared from the planned 925 feet up to 1046 feet.</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Bank of Manhattan 1930.png" width="320" height="404"/>
+        <image name="The Trump Building.png" width="300" height="448"/>
+        <image name="Trump Building.png" width="640" height="428"/>
+    </resources>
+</document>

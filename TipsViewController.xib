@@ -1,404 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="8.00">
-	<data>
-		<int key="IBDocument.SystemTarget">1536</int>
-		<string key="IBDocument.SystemVersion">13F1911</string>
-		<string key="IBDocument.InterfaceBuilderVersion">6751</string>
-		<string key="IBDocument.AppKitVersion">1265.21</string>
-		<string key="IBDocument.HIToolboxVersion">698.00</string>
-		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			<string key="NS.object.0">6736</string>
-		</object>
-		<array key="IBDocument.IntegratedClassDependencies">
-			<string>IBProxyObject</string>
-			<string>IBUILabel</string>
-			<string>IBUIScrollView</string>
-			<string>IBUIView</string>
-		</array>
-		<array key="IBDocument.PluginDependencies">
-			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-		</array>
-		<dictionary class="NSMutableDictionary" key="IBDocument.Metadata"/>
-		<array class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
-			<object class="IBProxyObject" id="372490531">
-				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBProxyObject" id="975951072">
-				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBUIView" id="191373211">
-				<reference key="NSNextResponder"/>
-				<int key="NSvFlags">274</int>
-				<array class="NSMutableArray" key="NSSubviews">
-					<object class="IBUIScrollView" id="328296123">
-						<reference key="NSNextResponder" ref="191373211"/>
-						<int key="NSvFlags">274</int>
-						<array class="NSMutableArray" key="NSSubviews">
-							<object class="IBUILabel" id="482658917">
-								<reference key="NSNextResponder" ref="328296123"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{10, 420}, {300, 1100}}</string>
-								<reference key="NSSuperview" ref="328296123"/>
-								<reference key="NSWindow"/>
-								<object class="NSColor" key="IBUIBackgroundColor" id="89444231">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MCAwAA</bytes>
-								</object>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<object class="NSMutableString" key="IBUIText">
-									<bytes key="NS.bytes">KiBUaGUgY2xvc2VzdCBzdWJ3YXkgc3RvcHMgdG8gdGhlIHRvdXIgc3RhcnQgYXJlIFNvdXRoIEZlcnJ5
-IFsxXSwgV2hpdGVoYWxsIFN0IFtOLCBSXSwgYW5kIEJvd2xpbmcgR3JlZW4gWzQsIDVdLiANDSogVGhl
-IGNsb3Nlc3Qgc3Vid2F5IHN0b3BzIHRvIHRoZSB0b3VyIGVuZCBhcmUgQ2FuYWwgU3QgW0osWl0sIENh
-bmFsIFN0IFtOLFFdIGFuZCBDYW5hbCBTdCBbNl0uDQ0qIEVsbGlzIElzbGFuZDogdGhlIG11c2V1bSBp
-cyBmcmVlIHdpdGggYSBwdXJjaGFzZWQgZmVycnkgdGlja2V0LiANDSogRnJhdW5jZXMgVGF2ZXJuOiAk
-NyBhZHVsdCBhZG1pc3Npb24gZm9yIHRoZSBtdXNldW0uIFRoZSByZXN0YXVyYW50IGFuZCBiYXIgYXJl
-IG9wZW4gZm9yIGx1bmNoIGFuZCBkaW5uZXIgKG5vIGZlZSkuDQ0qIDkvMTEgTWVtb3JpYWw6IEZyZWUs
-IGJ1dCBtdXN0IGhhdmUgcmVzZXJ2YXRpb24uIHd3dy45MTFtZW1vcmlhbC5vcmcgDQ0qIDkvMTEgTXVz
-ZXVtOiAkMjQgcGVyIHBlcnNvbiBhZG1pc3Npb24gZmVlLg0NKiBGZWRlcmFsIEhhbGw6IEZyZWUgbXVz
-ZXVtLiBGcmVlIGd1aWRlZCB0b3VycyBhdmFpbGFibGUsIGNoZWNrIHd3dy5ucHMuZ292IGZvciB0aW1l
-cy4NIA0qIFNvdXRoIFN0cmVldCBTZWFwb3J0OiB0b3VycyBhcmUgYXZhaWxhYmxlIHNlYXNvbmFsbHks
-IGNoZWNrIHRoZSB3ZWJzaXRlIGZvciB0aW1lcy4gVGhlIG11c2V1bSBpcyBhdCAxMiBGdWx0b24gU3Qu
-ICQxMCBmb3IgYWR1bHRzIGluY2x1ZGVzIG11c2V1bSBhbmQgdG91ciBvZiBvbmUgYW50aXF1ZSBzaGlw
-LiB3d3cuc291dGhzdHJlZXRzZWFwb3J0LmNvbS4gDQ0qIEJyb29rbHluIEJyaWRnZTogZ29vZCBwZWRl
-c3RyaWFuIGFuZCBiaWtlIHBhdGhzLCBmcmVlLiBUaGUgcGVkZXN0cmlhbiBwcm9tZW5hZGUgc3RhcnRz
-IGF0IENpdHkgSGFsbCBQYXJrLg0NKiBDaXR5IEhhbGw6IEZyZWUgdG91cnMgYXJlIGF2YWlsYWJsZSB3
-ZWVrZGF5cywgYnV0IHlvdSBtdXN0IG1ha2UgcmVzZXJ2YXRpb25zIGluIGFkdmFuY2UuIHd3dy5ueWMu
-Z292LiANDSogT3RoZXIgbXVzZXVtcyBpbiBsb3dlciBNYW5oYXR0YW46DU11c2V1bSBvZiBKZXdpc2gg
-SGVyaXRhZ2UgCiDigJMgMzYgQmF0dGVyeSBQbGFjZSANTmV3IFlvcmsgQ2l0eSBQb2xpY2UgTXVzZXVt
-IAog4oCTIDEwMCBPbGQgU2xpcA1Ta3lzY3JhcGVyIE11c2V1bSAKIOKAkyAzOSBCYXR0ZXJ5IFBsYWNl
-DU11c2V1bSBvZiBBbWVyaWNhbiBGaW5hbmNlIAog4oCTIDQ4IFdhbGwgU3RyZWV0DQ0qIEdvdmVybm9y
-4oCZcyBJc2xhbmQgRmVycnkgaXMgbmV4dCB0byB0aGUgU3RhdGVuIElzbGFuZCBGZXJyeSAoYXQgMTAg
-U291dGggU3RyZWV0KS4gR292ZXJub3LigJlzIElzbGFuZCBoYXMgYSBsb25nIG1pbGl0YXJ5IGhpc3Rv
-cnk7IG5vdyBpdCBpcyBhIHB1YmxpYyBwYXJrIHdpdGggYmlrZSBwYXRocywgcGljbmljIHRhYmxlcywg
-YW5kIHNvbWUgbWlsaXRhcnkgc2l0ZXMuIEZyZWUuIFNlYXNvbmFsIHRvdXJzIGFyZSBhdmFpbGFibGUu
-DSA</bytes>
-								</object>
-								<object class="NSColor" key="IBUITextColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMAA</bytes>
-								</object>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<object class="IBUIFontDescription" key="IBUIFontDescription" id="103842981">
-									<string key="name">Georgia</string>
-									<string key="family">Georgia</string>
-									<int key="traits">0</int>
-									<double key="pointSize">16</double>
-								</object>
-								<object class="NSFont" key="IBUIFont" id="743697631">
-									<string key="NSName">Georgia</string>
-									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<bool key="useAutomaticPreferredMaxLayoutWidth">YES</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUILabel" id="45640393">
-								<reference key="NSNextResponder" ref="328296123"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{10, 25}, {300, 430}}</string>
-								<reference key="NSSuperview" ref="328296123"/>
-								<reference key="NSWindow"/>
-								<reference key="NSNextKeyView" ref="482658917"/>
-								<reference key="IBUIBackgroundColor" ref="89444231"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<object class="NSMutableString" key="IBUIText">
-									<bytes key="NS.bytes">KiBTdGFydCB5b3VyIHdhbGtpbmcgdG91ciBlaXRoZXIgZnJvbSB0aGUgU3RhdGVuIElzbGFuZCBGZXJy
-eS9XaGl0ZWhhbGwgVGVybWluYWwgb3IgZnJvbSB0aGUgZmVycnkgYXQgQ2FzdGxlIENsaW50b246DQoK
-MSkgV2hpdGVoYWxsIFRlcm1pbmFsOiBmcmVlIGZlcnJ5IHRvIFN0YXRlbiBJc2xhbmQgd2l0aCBleGNl
-bGxlbnQgdmlld3Mgb2YgdGhlIFN0YXR1ZSBvZiBMaWJlcnR5IGFuZCBFbGxpcyBJc2xhbmQuIEl0IHJ1
-bnMgZXZlcnkgaG91ciwgMjR4Ny4gVGhpcyBmZXJyeSBkb2VzIG5vdCBzdG9wIGF0IHRoZSBTdGF0dWUg
-b2YgTGliZXJ0eSBvciBFbGxpcyBJc2xhbmQuIENvbmNlc3Npb25zIGFyZSBhdmFpbGFibGUuIE9yLA0K
-CjIpIENhc3RsZSBDbGludG9uOiBCdXkgdGlja2V0cyBmb3IgYWJvdXQgJDE3IGVhY2ggYW5kIHRvdXIg
-dGhlIFN0YXR1ZSBvZiBMaWJlcnR5IGFuZCBFbGxpcyBJc2xhbmQuIEl04oCZcyBiZXN0IHRvIG1ha2Ug
-cmVzZXJ2YXRpb25zIGluIGFkdmFuY2U7IHRoZSBlbnRyeSBpcyB0aW1lZCAod3d3LnN0YXR1ZWNydWlz
-ZXMuY29tKS4gUGxhbiB0byBhcnJpdmUgYXQgQ2FzdGxlIENsaW50b24gYWJvdXQgMiBob3VycyBiZWZv
-cmUgeW91ciBzY2hlZHVsZWQgdG91ciBmb3Igc2VjdXJpdHkgc2NyZWVuaW5nIGFuZCBmZXJyeSB0cmF2
-ZWwgdGltZS4gSWYgeW914oCZcmUgaW50ZXJlc3RlZCBpbiBjbGltYmluZyB1cCB0byB0aGUgY3Jvd24s
-IG1ha2UgcmVzZXJ2YXRpb25zIHNldmVyYWwgbW9udGhzIGluIGFkdmFuY2UgLSBvbmx5IDI0MCBwZW9w
-bGUgYXJlIGFsbG93ZWQgcGVyIGRheS4gDQ</bytes>
-								</object>
-								<object class="NSColor" key="IBUITextColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMAA</bytes>
-								</object>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<reference key="IBUIFontDescription" ref="103842981"/>
-								<reference key="IBUIFont" ref="743697631"/>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<bool key="useAutomaticPreferredMaxLayoutWidth">YES</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-						</array>
-						<string key="NSFrameSize">{320, 1650}</string>
-						<reference key="NSSuperview" ref="191373211"/>
-						<reference key="NSWindow"/>
-						<reference key="NSNextKeyView" ref="45640393"/>
-						<bool key="IBUIClipsSubviews">YES</bool>
-						<bool key="IBUIMultipleTouchEnabled">YES</bool>
-						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<bool key="IBUIBouncesZoom">NO</bool>
-					</object>
-				</array>
-				<string key="NSFrameSize">{320, 1700}</string>
-				<reference key="NSSuperview"/>
-				<reference key="NSWindow"/>
-				<reference key="NSNextKeyView" ref="328296123"/>
-				<object class="NSColor" key="IBUIBackgroundColor">
-					<int key="NSColorSpace">3</int>
-					<bytes key="NSWhite">MQA</bytes>
-					<object class="NSColorSpace" key="NSCustomColorSpace">
-						<int key="NSID">2</int>
-					</object>
-				</object>
-				<object class="IBUISimulatedSizeMetrics" key="IBUISimulatedDestinationMetrics">
-					<string key="IBUISimulatedSizeMetricsClass">IBUISimulatedFreeformSizeMetricsSentinel</string>
-					<string key="IBUIDisplayName">Freeform</string>
-				</object>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-		</array>
-		<object class="IBObjectContainer" key="IBDocument.Objects">
-			<array key="connectionRecords">
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">view</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="191373211"/>
-					</object>
-					<int key="connectionID">3</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">scrollView</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="328296123"/>
-					</object>
-					<int key="connectionID">6</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">delegate</string>
-						<reference key="source" ref="328296123"/>
-						<reference key="destination" ref="372490531"/>
-					</object>
-					<int key="connectionID">5</int>
-				</object>
-			</array>
-			<object class="IBMutableOrderedSet" key="objectRecords">
-				<array key="orderedObjects">
-					<object class="IBObjectRecord">
-						<int key="objectID">0</int>
-						<array key="object" id="0"/>
-						<reference key="children" ref="1000"/>
-						<nil key="parent"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">1</int>
-						<reference key="object" ref="191373211"/>
-						<array class="NSMutableArray" key="children">
-							<reference ref="328296123"/>
-						</array>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-1</int>
-						<reference key="object" ref="372490531"/>
-						<reference key="parent" ref="0"/>
-						<string key="objectName">File's Owner</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-2</int>
-						<reference key="object" ref="975951072"/>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">4</int>
-						<reference key="object" ref="328296123"/>
-						<array class="NSMutableArray" key="children">
-							<reference ref="482658917"/>
-							<reference ref="45640393"/>
-						</array>
-						<reference key="parent" ref="191373211"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">7</int>
-						<reference key="object" ref="482658917"/>
-						<reference key="parent" ref="328296123"/>
-						<object class="NSMutableString" key="objectName">
-							<bytes key="NS.bytes">KiBDbG9zZXN0IHN1YndheSBzdG9wcyB0byB0aGUgc3RhcnQgYXJlIFNvdXRoIEZlcnJ5IFsxXSwgV2hp
-dGVoYWxsIFN0IFtOLCBSXSwgYW5kIEJvd2xpbmcgR3JlZW4gWzQsIDVdLiAgICogQ2xvc2VzdCBzdWJ3
-YXkgc3RvcHMgdG8gdGhlIGVuZCBhcmUgQ2FuYWwgU3QgW0osWl0sIENhbmFsIFN0IFtOLFFdIGFuZCBD
-YW5hbCBTdCBbNl0uICAqIEVsbGlzIElzbGFuZDogZnJlZSBtdXNldW0gd2l0aCBwdXJjaGFzZWQgZmVy
-cnkgdGlja2V0LiAgICogRnJhdW5jZXMgVGF2ZXJuOiAkNyBhZHVsdCBhZG1pc3Npb24gZm9yIG11c2V1
-bS4gUmVzdGF1cmFudCBhbmQgYmFyIG9wZW4gZm9yIGx1bmNoIGFuZCBkaW5uZXIuICAqIDkvMTEgTWVt
-b3JpYWw6IEZyZWUsIGJ1dCBtdXN0IGhhdmUgcmVzZXJ2YXRpb24uIHd3dy45MTFtZW1vcmlhbC5vcmcg
-ICAqIDkvMTEgTXVzZXVtOiB1bmRlciBjb25zdHJ1Y3Rpb24uIFdoZW4gaXQgb3BlbnMsIHRoZXJlIHdp
-bGwgYmUgYW4gYWRtaXNzaW9uIGZlZS4gICogRmVkZXJhbCBIYWxsOiBGcmVlIG11c2V1bS4gRnJlZSBn
-dWlkZWQgdG91cnMgYXZhaWxhYmxlLCBjaGVjayB3d3cubnBzLmdvdiBmb3IgdGltZXMuICAgKiBTb3V0
-aCBTdHJlZXQgU2VhcG9ydDogdG91cnMgYXZhaWxhYmxlIHNlYXNvbmFsbHksIGNoZWNrIHdlYnNpdGUg
-Zm9yIHRpbWVzLiBNdXNldW0gYXQgMTIgRnVsdG9uIFN0LiAkMTAgZm9yIGFkdWx0cyBpbmNsdWRlcyBt
-dXNldW0gYW5kIHRvdXIgb2Ygb25lIGFudGlxdWUgc2hpcC4gd3d3LnNvdXRoc3RyZWV0c2VhcG9ydC5j
-b20uICAgKiBCcm9va2x5biBCcmlkZ2U6IGdvb2QgcGVkZXN0cmlhbiBhbmQgYmlrZSBwYXRocywgZnJl
-ZS4gVGhlIHBlZGVzdHJpYW4gcHJvbWVuYWRlIHN0YXJ0cyBhdCBDaXR5IEhhbGwgUGFyay4gICogQ2l0
-eSBIYWxsOiBGcmVlIHRvdXJzIGF2YWlsYWJsZSB3ZWVrZGF5cywgbXVzdCBtYWtlIHJlc2VydmF0aW9u
-cyBpbiBhZHZhbmNlLiB3d3cubnljLmdvdi4gICAqIE90aGVyIG11c2V1bXMgaW4gbG93ZXIgTWFuaGF0
-dGFuOiBNdXNldW0gb2YgSmV3aXNoIEhlcml0YWdlICDigJMgMzYgQmF0dGVyeSBQbGFjZSAgTmV3IFlv
-cmsgQ2l0eSBQb2xpY2UgTXVzZXVtICDigJMgMTAwIE9sZCBTbGlwIFNreXNjcmFwZXIgTXVzZXVtICDi
-gJMgMzkgQmF0dGVyeSBQbGFjZSBNdXNldW0gb2YgQW1lcmljYW4gRmluYW5jZSAg4oCTIDQ4IFdhbGwg
-U3RyZWV0ICAqIEdvdmVybm9y4oCZcyBJc2xhbmQgRmVycnkgaXMgbmV4dCB0byB0aGUgU3RhdGVuIElz
-bGFuZCBGZXJyeSAoYXQgMTAgU291dGggU3RyZWV0KS4gR292ZXJub3LigJlzIElzbGFuZCBoYXMgYSBs
-b25nIG1pbGl0YXJ5IGhpc3Rvcnk7IG5vdyBpdCBpcyBhIHB1YmxpYyBwYXJrIHdpdGggYmlrZSBwYXRo
-cywgcGljbmljIHRhYmxlcywgc29tZSBtaWxpdGFyeSBzaXRlcy4gRnJlZS4gU2Vhc29uYWwgdG91cnMg
-YXZhaWxhYmxlLg</bytes>
-						</object>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">22</int>
-						<reference key="object" ref="45640393"/>
-						<reference key="parent" ref="328296123"/>
-					</object>
-				</array>
-			</object>
-			<dictionary class="NSMutableDictionary" key="flattenedProperties">
-				<string key="-1.CustomClassName">TipsViewController</string>
-				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="-2.CustomClassName">UIResponder</string>
-				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="22.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<reference key="4.IBNSViewMetadataGestureRecognizers" ref="0"/>
-				<string key="4.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="7.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			</dictionary>
-			<dictionary class="NSMutableDictionary" key="unlocalizedProperties"/>
-			<nil key="activeLocalization"/>
-			<dictionary class="NSMutableDictionary" key="localizations"/>
-			<nil key="sourceID"/>
-			<int key="maxID">22</int>
-		</object>
-		<object class="IBClassDescriber" key="IBDocument.Classes">
-			<array class="NSMutableArray" key="referencedPartialClassDescriptions">
-				<object class="IBPartialClassDescription">
-					<string key="className">TipsViewController</string>
-					<string key="superclassName">UIViewController</string>
-					<object class="NSMutableDictionary" key="outlets">
-						<string key="NS.key.0">scrollView</string>
-						<string key="NS.object.0">UIScrollView</string>
-					</object>
-					<object class="NSMutableDictionary" key="toOneOutletInfosByName">
-						<string key="NS.key.0">scrollView</string>
-						<object class="IBToOneOutletInfo" key="NS.object.0">
-							<string key="name">scrollView</string>
-							<string key="candidateClassName">UIScrollView</string>
-						</object>
-					</object>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBProjectSource</string>
-						<string key="minorKey">../TipsViewController.h</string>
-					</object>
-				</object>
-			</array>
-			<array class="NSMutableArray" key="referencedPartialClassDescriptionsV3.2+">
-				<object class="IBPartialClassDescription">
-					<string key="className">UIGestureRecognizer</string>
-					<string key="superclassName">NSObject</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UIGestureRecognizer.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UILabel</string>
-					<string key="superclassName">UIView</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UILabel.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UIResponder</string>
-					<string key="superclassName">NSObject</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UIResponder.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UIScrollView</string>
-					<string key="superclassName">UIView</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UIScrollView.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UISearchBar</string>
-					<string key="superclassName">UIView</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UISearchBar.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UISearchDisplayController</string>
-					<string key="superclassName">NSObject</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UISearchDisplayController.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UIView</string>
-					<string key="superclassName">UIResponder</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UIView.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
-					<string key="className">UIViewController</string>
-					<string key="superclassName">UIResponder</string>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBFrameworkSource</string>
-						<string key="minorKey">UIKit.framework/Headers/UIViewController.h</string>
-					</object>
-				</object>
-			</array>
-		</object>
-		<int key="IBDocument.localizationMode">0</int>
-		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
-		<bool key="IBDocument.previouslyAttemptedUpgradeToXcode5">NO</bool>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
-			<integer value="4600" key="NS.object.0"/>
-		</object>
-		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
-		<int key="IBDocument.defaultPropertyAccessControl">3</int>
-	</data>
-</archive>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TipsViewController">
+            <connections>
+                <outlet property="scrollView" destination="4" id="6"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="1700"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" bouncesZoom="NO" id="4">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="1700"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="7">
+                            <rect key="frame" x="10" y="420" width="300" height="1100"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <mutableString key="text">* The closest subway stops to the tour start are South Ferry [1], Whitehall St [N, R], and Bowling Green [4, 5]. * The closest subway stops to the tour end are Canal St [J,Z], Canal St [N,Q] and Canal St [6].* Ellis Island: the museum is free with a purchased ferry ticket. * Fraunces Tavern: $7 adult admission for the museum. The restaurant and bar are open for lunch and dinner (no fee).* 9/11 Memorial: Free, but must have reservation. www.911memorial.org * 9/11 Museum: $24 per person admission fee.* Federal Hall: Free museum. Free guided tours available, check www.nps.gov for times. * South Street Seaport: tours are available seasonally, check the website for times. The museum is at 12 Fulton St. $10 for adults includes museum and tour of one antique ship. www.southstreetseaport.com. * Brooklyn Bridge: good pedestrian and bike paths, free. The pedestrian promenade starts at City Hall Park.* City Hall: Free tours are available weekdays, but you must make reservations in advance. www.nyc.gov. * Other museums in lower Manhattan:Museum of Jewish Heritage 
+ – 36 Battery Place New York City Police Museum 
+ – 100 Old SlipSkyscraper Museum 
+ – 39 Battery PlaceMuseum of American Finance 
+ – 48 Wall Street* Governor’s Island Ferry is next to the Staten Island Ferry (at 10 South Street). Governor’s Island has a long military history; now it is a public park with bike paths, picnic tables, and some military sites. Free. Seasonal tours are available. </mutableString>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <mutableString key="userLabel">* Closest subway stops to the start are South Ferry [1], Whitehall St [N, R], and Bowling Green [4, 5].   * Closest subway stops to the end are Canal St [J,Z], Canal St [N,Q] and Canal St [6].  * Ellis Island: free museum with purchased ferry ticket.   * Fraunces Tavern: $7 adult admission for museum. Restaurant and bar open for lunch and dinner.  * 9/11 Memorial: Free, but must have reservation. www.911memorial.org   * 9/11 Museum: under construction. When it opens, there will be an admission fee.  * Federal Hall: Free museum. Free guided tours available, check www.nps.gov for times.   * South Street Seaport: tours available seasonally, check website for times. Museum at 12 Fulton St. $10 for adults includes museum and tour of one antique ship. www.southstreetseaport.com.   * Brooklyn Bridge: good pedestrian and bike paths, free. The pedestrian promenade starts at City Hall Park.  * City Hall: Free tours available weekdays, must make reservations in advance. www.nyc.gov.   * Other museums in lower Manhattan: Museum of Jewish Heritage  – 36 Battery Place  New York City Police Museum  – 100 Old Slip Skyscraper Museum  – 39 Battery Place Museum of American Finance  – 48 Wall Street  * Governor’s Island Ferry is next to the Staten Island Ferry (at 10 South Street). Governor’s Island has a long military history; now it is a public park with bike paths, picnic tables, some military sites. Free. Seasonal tours available.</mutableString>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="22">
+                            <rect key="frame" x="10" y="25" width="300" height="430"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <mutableString key="text">* Start your walking tour either from the Staten Island Ferry/Whitehall Terminal or from the ferry at Castle Clinton:
+
+1) Whitehall Terminal: free ferry to Staten Island with excellent views of the Statue of Liberty and Ellis Island. It runs every hour, 24x7. This ferry does not stop at the Statue of Liberty or Ellis Island. Concessions are available. Or,
+
+2) Castle Clinton: Buy tickets for about $17 each and tour the Statue of Liberty and Ellis Island. It’s best to make reservations in advance; the entry is timed (www.statuecruises.com). Plan to arrive at Castle Clinton about 2 hours before your scheduled tour for security screening and ferry travel time. If you’re interested in climbing up to the crown, make reservations several months in advance - only 240 people are allowed per day. </mutableString>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                    </subviews>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="5"/>
+                    </connections>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+</document>

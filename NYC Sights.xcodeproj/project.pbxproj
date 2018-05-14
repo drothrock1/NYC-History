@@ -10,6 +10,17 @@
 		1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */; };
 		1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		4155CE39208CC42600B78E8C /* Icon114.png in Resources */ = {isa = PBXBuildFile; fileRef = 4155CE38208CC42500B78E8C /* Icon114.png */; };
+		4168FD07208A89C5008DB2AC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4168FD06208A89C5008DB2AC /* CoreLocation.framework */; };
+		4168FD09208A8B5B008DB2AC /* back12.png in Resources */ = {isa = PBXBuildFile; fileRef = 4168FD08208A8B5B008DB2AC /* back12.png */; };
+		4168FD0B208A8B68008DB2AC /* forward12.png in Resources */ = {isa = PBXBuildFile; fileRef = 4168FD0A208A8B68008DB2AC /* forward12.png */; };
+		41D92629208BA7E900053892 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41D92628208BA7E900053892 /* Images.xcassets */; };
+		41D9262B208BACD200053892 /* Diane320.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D9262A208BACD200053892 /* Diane320.png */; };
+		41D9262F208BC99300053892 /* InfoScreenold.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D9262E208BC99300053892 /* InfoScreenold.png */; };
+		41D92631208BC9A000053892 /* InfoScreenOld-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D92630208BC9A000053892 /* InfoScreenOld-568h@2x.png */; };
+		41D92639208BDAE600053892 /* InfoScreen480.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D92638208BDAE600053892 /* InfoScreen480.png */; };
+		41D9263F208BDB0E00053892 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D9263E208BDB0E00053892 /* InfoScreen.png */; };
+		41D92641208BDB5700053892 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41D92640208BDB5700053892 /* InfoScreen-568h@2x.png */; };
 		537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 537204DA0DC28C310048CDA2 /* Localizable.strings */; };
 		537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 537204DC0DC28C310048CDA2 /* InfoPlist.strings */; };
 		53D090D90FA2391E00BB0543 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
@@ -19,9 +30,6 @@
 		C41EFDDD11FE69A00026DD31 /* PinDRed11.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDD811FE69A00026DD31 /* PinDRed11.png */; };
 		C41EFDDE11FE69A00026DD31 /* PinDRed12.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDD911FE69A00026DD31 /* PinDRed12.png */; };
 		C41EFDDF11FE69A00026DD31 /* PinDRed13.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDDA11FE69A00026DD31 /* PinDRed13.png */; };
-		C4248D281AFA54D20063D337 /* back12.png in Resources */ = {isa = PBXBuildFile; fileRef = C4248D271AFA54D20063D337 /* back12.png */; };
-		C4248D2A1AFA54DB0063D337 /* forward12.png in Resources */ = {isa = PBXBuildFile; fileRef = C4248D291AFA54DB0063D337 /* forward12.png */; };
-		C4248D561AFBC1E50063D337 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4248D551AFBC1E50063D337 /* Images.xcassets */; };
 		C43CDB301650333C00699E8C /* PinDRed14.png in Resources */ = {isa = PBXBuildFile; fileRef = C43CDB2F1650333C00699E8C /* PinDRed14.png */; };
 		C43EC881160808F00025700D /* PageTwelveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43EC87F160808F00025700D /* PageTwelveViewController.m */; };
 		C43EC882160808F00025700D /* PageTwelveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C43EC880160808F00025700D /* PageTwelveViewController.xib */; };
@@ -89,7 +97,7 @@
 		C4B341FB208A759200F58EA6 /* Charging Bull.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F4208A759200F58EA6 /* Charging Bull.png */; };
 		C4B341FC208A759200F58EA6 /* Chinatown shops.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F5208A759200F58EA6 /* Chinatown shops.png */; };
 		C4B341FD208A759200F58EA6 /* Chinatown.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F6208A759200F58EA6 /* Chinatown.png */; };
-		C4B341FE208A759200F58EA6 /* City Hall - Council Chamber.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F7208A759200F58EA6 /* City Hall - Council Chamber.png */; };
+		C4B341FE208A759200F58EA6 /* City Hall - council chamber.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F7208A759200F58EA6 /* City Hall - council chamber.png */; };
 		C4B341FF208A759200F58EA6 /* City Hall.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F8208A759200F58EA6 /* City Hall.png */; };
 		C4B34200208A759200F58EA6 /* Colony Map from 1600s.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341F9208A759200F58EA6 /* Colony Map from 1600s.png */; };
 		C4B34201208A759200F58EA6 /* Customs House.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B341FA208A759200F58EA6 /* Customs House.png */; };
@@ -97,7 +105,7 @@
 		C4B34209208A75A800F58EA6 /* Federal Hall.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34203208A75A800F58EA6 /* Federal Hall.png */; };
 		C4B3420A208A75A800F58EA6 /* Fraunces Tavern.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34204208A75A800F58EA6 /* Fraunces Tavern.png */; };
 		C4B3420B208A75A800F58EA6 /* Frederic Bartholdi.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34205208A75A800F58EA6 /* Frederic Bartholdi.png */; };
-		C4B3420C208A75A800F58EA6 /* Guilliani and Rumsfeld.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34206208A75A800F58EA6 /* Guilliani and Rumsfeld.png */; };
+		C4B3420C208A75A800F58EA6 /* Guiliani and Rumsfeld.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34206208A75A800F58EA6 /* Guiliani and Rumsfeld.png */; };
 		C4B3420D208A75A800F58EA6 /* Hamilton gravemarker.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34207208A75A800F58EA6 /* Hamilton gravemarker.png */; };
 		C4B3421A208A75BD00F58EA6 /* Immigrants arriving.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3420E208A75BD00F58EA6 /* Immigrants arriving.png */; };
 		C4B3421B208A75BD00F58EA6 /* James Watson House.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3420F208A75BD00F58EA6 /* James Watson House.png */; };
@@ -116,7 +124,7 @@
 		C4B34234208A75D300F58EA6 /* South Street Shops.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34228208A75D300F58EA6 /* South Street Shops.png */; };
 		C4B34235208A75D300F58EA6 /* St Paul's Chapel.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34229208A75D300F58EA6 /* St Paul's Chapel.png */; };
 		C4B34236208A75D300F58EA6 /* Station before fire.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422A208A75D300F58EA6 /* Station before fire.png */; };
-		C4B34237208A75D300F58EA6 /* Statue of Liberty Head.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422B208A75D300F58EA6 /* Statue of Liberty Head.png */; };
+		C4B34237208A75D300F58EA6 /* Statue of Liberty head.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422B208A75D300F58EA6 /* Statue of Liberty head.png */; };
 		C4B34238208A75D300F58EA6 /* Statue of Liberty.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422C208A75D300F58EA6 /* Statue of Liberty.png */; };
 		C4B34239208A75D300F58EA6 /* Survivor Tree.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422D208A75D300F58EA6 /* Survivor Tree.png */; };
 		C4B3423A208A75D300F58EA6 /* Ten dollar bill.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B3422E208A75D300F58EA6 /* Ten dollar bill.png */; };
@@ -132,7 +140,6 @@
 		C4B3424D208A75E200F58EA6 /* Washington statue.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34244208A75E200F58EA6 /* Washington statue.png */; };
 		C4B3424E208A75E200F58EA6 /* Woolworth Building.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34245208A75E200F58EA6 /* Woolworth Building.png */; };
 		C4B3424F208A75E200F58EA6 /* Woolworth corbel.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B34246208A75E200F58EA6 /* Woolworth corbel.png */; };
-		C4B35E0A1D89C22100EBC0B4 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B35E091D89C22100EBC0B4 /* InfoScreen.png */; };
 		C4B958EA15696B70000BF4FB /* mapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4B958E515696B70000BF4FB /* mapViewController.m */; };
 		C4B958EB15696B70000BF4FB /* wwAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = C4B958E715696B70000BF4FB /* wwAnnotation.m */; };
 		C4B958EC15696B70000BF4FB /* wwAnnotationView.m in Sources */ = {isa = PBXBuildFile; fileRef = C4B958E915696B70000BF4FB /* wwAnnotationView.m */; };
@@ -172,9 +179,6 @@
 		C4B95A32156978CF000BF4FB /* PageFiveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4B95A30156978CF000BF4FB /* PageFiveViewController.xib */; };
 		C4B95A39156978F0000BF4FB /* PageFourViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4B95A35156978F0000BF4FB /* PageFourViewController.xib */; };
 		C4B95A3A156978F0000BF4FB /* PageThreeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4B95A37156978F0000BF4FB /* PageThreeViewController.xib */; };
-		C4E8FBE11D89991000C12924 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E8FBE01D89991000C12924 /* Default.png */; };
-		C4E8FBE31D89992200C12924 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E8FBE21D89992200C12924 /* Default@2x.png */; };
-		C4E8FBE51D89993100C12924 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E8FBE41D89993100C12924 /* Default-568h@2x.png */; };
 		C4E8FBFB1D899C9100C12924 /* Icon57.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E8FBFA1D899C9100C12924 /* Icon57.png */; };
 /* End PBXBuildFile section */
 
@@ -183,6 +187,17 @@
 		1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4155CE38208CC42500B78E8C /* Icon114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon114.png; sourceTree = "<group>"; };
+		4168FD06208A89C5008DB2AC /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4168FD08208A8B5B008DB2AC /* back12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back12.png; path = ../StAugustine/back12.png; sourceTree = "<group>"; };
+		4168FD0A208A8B68008DB2AC /* forward12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = forward12.png; path = ../StAugustine/forward12.png; sourceTree = "<group>"; };
+		41D92628208BA7E900053892 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "NYC Sights/Images.xcassets"; sourceTree = "<group>"; };
+		41D9262A208BACD200053892 /* Diane320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Diane320.png; sourceTree = "<group>"; };
+		41D9262E208BC99300053892 /* InfoScreenold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreenold.png; sourceTree = "<group>"; };
+		41D92630208BC9A000053892 /* InfoScreenOld-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreenOld-568h@2x.png"; sourceTree = "<group>"; };
+		41D92638208BDAE600053892 /* InfoScreen480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen480.png; sourceTree = "<group>"; };
+		41D9263E208BDB0E00053892 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
+		41D92640208BDB5700053892 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
 		537204DB0DC28C310048CDA2 /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		537204DD0DC28C310048CDA2 /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		539C376E0DB8003400A5E2BB /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; wrapsLines = 1; };
@@ -193,9 +208,6 @@
 		C41EFDD811FE69A00026DD31 /* PinDRed11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed11.png; sourceTree = "<group>"; };
 		C41EFDD911FE69A00026DD31 /* PinDRed12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed12.png; sourceTree = "<group>"; };
 		C41EFDDA11FE69A00026DD31 /* PinDRed13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed13.png; sourceTree = "<group>"; };
-		C4248D271AFA54D20063D337 /* back12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back12.png; path = ../../../back12.png; sourceTree = "<group>"; };
-		C4248D291AFA54DB0063D337 /* forward12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = forward12.png; path = ../../../forward12.png; sourceTree = "<group>"; };
-		C4248D551AFBC1E50063D337 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Images.xcassets; path = "NYC Sights/Images.xcassets"; sourceTree = "<group>"; };
 		C43CDB2F1650333C00699E8C /* PinDRed14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed14.png; sourceTree = "<group>"; };
 		C43EC87E160808F00025700D /* PageTwelveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageTwelveViewController.h; sourceTree = "<group>"; };
 		C43EC87F160808F00025700D /* PageTwelveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTwelveViewController.m; sourceTree = "<group>"; };
@@ -267,7 +279,7 @@
 		C4B341F4208A759200F58EA6 /* Charging Bull.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charging Bull.png"; sourceTree = "<group>"; };
 		C4B341F5208A759200F58EA6 /* Chinatown shops.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chinatown shops.png"; sourceTree = "<group>"; };
 		C4B341F6208A759200F58EA6 /* Chinatown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chinatown.png; sourceTree = "<group>"; };
-		C4B341F7208A759200F58EA6 /* City Hall - Council Chamber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "City Hall - Council Chamber.png"; sourceTree = "<group>"; };
+		C4B341F7208A759200F58EA6 /* City Hall - council chamber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "City Hall - council chamber.png"; sourceTree = "<group>"; };
 		C4B341F8208A759200F58EA6 /* City Hall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "City Hall.png"; sourceTree = "<group>"; };
 		C4B341F9208A759200F58EA6 /* Colony Map from 1600s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Colony Map from 1600s.png"; sourceTree = "<group>"; };
 		C4B341FA208A759200F58EA6 /* Customs House.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Customs House.png"; sourceTree = "<group>"; };
@@ -275,7 +287,7 @@
 		C4B34203208A75A800F58EA6 /* Federal Hall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Federal Hall.png"; sourceTree = "<group>"; };
 		C4B34204208A75A800F58EA6 /* Fraunces Tavern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fraunces Tavern.png"; sourceTree = "<group>"; };
 		C4B34205208A75A800F58EA6 /* Frederic Bartholdi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frederic Bartholdi.png"; sourceTree = "<group>"; };
-		C4B34206208A75A800F58EA6 /* Guilliani and Rumsfeld.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Guilliani and Rumsfeld.png"; sourceTree = "<group>"; };
+		C4B34206208A75A800F58EA6 /* Guiliani and Rumsfeld.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Guiliani and Rumsfeld.png"; sourceTree = "<group>"; };
 		C4B34207208A75A800F58EA6 /* Hamilton gravemarker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hamilton gravemarker.png"; sourceTree = "<group>"; };
 		C4B3420E208A75BD00F58EA6 /* Immigrants arriving.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Immigrants arriving.png"; sourceTree = "<group>"; };
 		C4B3420F208A75BD00F58EA6 /* James Watson House.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "James Watson House.png"; sourceTree = "<group>"; };
@@ -294,7 +306,7 @@
 		C4B34228208A75D300F58EA6 /* South Street Shops.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "South Street Shops.png"; sourceTree = "<group>"; };
 		C4B34229208A75D300F58EA6 /* St Paul's Chapel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "St Paul's Chapel.png"; sourceTree = "<group>"; };
 		C4B3422A208A75D300F58EA6 /* Station before fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Station before fire.png"; sourceTree = "<group>"; };
-		C4B3422B208A75D300F58EA6 /* Statue of Liberty Head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Statue of Liberty Head.png"; sourceTree = "<group>"; };
+		C4B3422B208A75D300F58EA6 /* Statue of Liberty head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Statue of Liberty head.png"; sourceTree = "<group>"; };
 		C4B3422C208A75D300F58EA6 /* Statue of Liberty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Statue of Liberty.png"; sourceTree = "<group>"; };
 		C4B3422D208A75D300F58EA6 /* Survivor Tree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Survivor Tree.png"; sourceTree = "<group>"; };
 		C4B3422E208A75D300F58EA6 /* Ten dollar bill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ten dollar bill.png"; sourceTree = "<group>"; };
@@ -310,7 +322,6 @@
 		C4B34244208A75E200F58EA6 /* Washington statue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Washington statue.png"; sourceTree = "<group>"; };
 		C4B34245208A75E200F58EA6 /* Woolworth Building.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Woolworth Building.png"; sourceTree = "<group>"; };
 		C4B34246208A75E200F58EA6 /* Woolworth corbel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Woolworth corbel.png"; sourceTree = "<group>"; };
-		C4B35E091D89C22100EBC0B4 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
 		C4B958E415696B70000BF4FB /* mapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mapViewController.h; sourceTree = "<group>"; };
 		C4B958E515696B70000BF4FB /* mapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mapViewController.m; sourceTree = "<group>"; };
 		C4B958E615696B70000BF4FB /* wwAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wwAnnotation.h; sourceTree = "<group>"; };
@@ -375,9 +386,6 @@
 		C4B95A31156978CF000BF4FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PageFiveViewController.xib; sourceTree = "<group>"; };
 		C4B95A36156978F0000BF4FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PageFourViewController.xib; sourceTree = "<group>"; };
 		C4B95A38156978F0000BF4FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PageThreeViewController.xib; sourceTree = "<group>"; };
-		C4E8FBE01D89991000C12924 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		C4E8FBE21D89992200C12924 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		C4E8FBE41D89993100C12924 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		C4E8FBFA1D899C9100C12924 /* Icon57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon57.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -386,6 +394,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4168FD07208A89C5008DB2AC /* CoreLocation.framework in Frameworks */,
 				1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
@@ -433,14 +442,14 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				C4248D551AFBC1E50063D337 /* Images.xcassets */,
-				C4E8FBE01D89991000C12924 /* Default.png */,
-				C4E8FBE21D89992200C12924 /* Default@2x.png */,
-				C4E8FBE41D89993100C12924 /* Default-568h@2x.png */,
-				C4B35E091D89C22100EBC0B4 /* InfoScreen.png */,
-				C4248D291AFA54DB0063D337 /* forward12.png */,
-				C4248D271AFA54D20063D337 /* back12.png */,
+				41D92628208BA7E900053892 /* Images.xcassets */,
+				41D9262E208BC99300053892 /* InfoScreenold.png */,
+				41D92630208BC9A000053892 /* InfoScreenOld-568h@2x.png */,
+				41D92638208BDAE600053892 /* InfoScreen480.png */,
+				41D9263E208BDB0E00053892 /* InfoScreen.png */,
+				41D92640208BDB5700053892 /* InfoScreen-568h@2x.png */,
 				C4E8FBFA1D899C9100C12924 /* Icon57.png */,
+				4155CE38208CC42500B78E8C /* Icon114.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
 				C42BAFBE11BF366B00D9F604 /* DetailXIB */,
 				C4E9401511BB0A5E0021141A /* Images */,
@@ -458,6 +467,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4168FD06208A89C5008DB2AC /* CoreLocation.framework */,
 				C485162C11AE1A7C00549246 /* MapKit.framework */,
 				C485162211AE1A6B00549246 /* AVFoundation.framework */,
 				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
@@ -658,6 +668,8 @@
 		C4851BD811B4905300549246 /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
+				4168FD08208A8B5B008DB2AC /* back12.png */,
+				4168FD0A208A8B68008DB2AC /* forward12.png */,
 				C4851B2111B4864A00549246 /* MapViewIcon.png */,
 				C4851B1F11B4864000549246 /* TableViewIcon.png */,
 				C485183A11B0A40500549246 /* Playbutton.png */,
@@ -673,6 +685,7 @@
 		C4E9401511BB0A5E0021141A /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				41D9262A208BACD200053892 /* Diane320.png */,
 				C4B341E0208A757C00F58EA6 /* 1913 View.png */,
 				C4B341E1208A757C00F58EA6 /* African Burial Grounds.png */,
 				C4B341E2208A757C00F58EA6 /* Astronauts ring bell.png */,
@@ -686,7 +699,7 @@
 				C4B341F4208A759200F58EA6 /* Charging Bull.png */,
 				C4B341F5208A759200F58EA6 /* Chinatown shops.png */,
 				C4B341F6208A759200F58EA6 /* Chinatown.png */,
-				C4B341F7208A759200F58EA6 /* City Hall - Council Chamber.png */,
+				C4B341F7208A759200F58EA6 /* City Hall - council chamber.png */,
 				C4B341F8208A759200F58EA6 /* City Hall.png */,
 				C4B341F9208A759200F58EA6 /* Colony Map from 1600s.png */,
 				C4B341FA208A759200F58EA6 /* Customs House.png */,
@@ -694,7 +707,7 @@
 				C4B34203208A75A800F58EA6 /* Federal Hall.png */,
 				C4B34204208A75A800F58EA6 /* Fraunces Tavern.png */,
 				C4B34205208A75A800F58EA6 /* Frederic Bartholdi.png */,
-				C4B34206208A75A800F58EA6 /* Guilliani and Rumsfeld.png */,
+				C4B34206208A75A800F58EA6 /* Guiliani and Rumsfeld.png */,
 				C4B34207208A75A800F58EA6 /* Hamilton gravemarker.png */,
 				C4B3420E208A75BD00F58EA6 /* Immigrants arriving.png */,
 				C4B3420F208A75BD00F58EA6 /* James Watson House.png */,
@@ -713,7 +726,7 @@
 				C4B34228208A75D300F58EA6 /* South Street Shops.png */,
 				C4B34229208A75D300F58EA6 /* St Paul's Chapel.png */,
 				C4B3422A208A75D300F58EA6 /* Station before fire.png */,
-				C4B3422B208A75D300F58EA6 /* Statue of Liberty Head.png */,
+				C4B3422B208A75D300F58EA6 /* Statue of Liberty head.png */,
 				C4B3422C208A75D300F58EA6 /* Statue of Liberty.png */,
 				C4B3422D208A75D300F58EA6 /* Survivor Tree.png */,
 				C4B3422E208A75D300F58EA6 /* Ten dollar bill.png */,
@@ -759,11 +772,17 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0620;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Rothrock Group, LLC";
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 5G4385EGEP;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -795,7 +814,6 @@
 				537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */,
 				537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */,
 				C4B3420A208A75A800F58EA6 /* Fraunces Tavern.png in Resources */,
-				C4E8FBE51D89993100C12924 /* Default-568h@2x.png in Resources */,
 				C4B3421A208A75BD00F58EA6 /* Immigrants arriving.png in Resources */,
 				C485173B11AF5C7900549246 /* PinDRed1.png in Resources */,
 				C485173C11AF5C7900549246 /* PinDRed2.png in Resources */,
@@ -809,6 +827,7 @@
 				C485174011AF5C7900549246 /* PinDRed6.png in Resources */,
 				C485174111AF5C7900549246 /* PinDRed7.png in Resources */,
 				C4B3424F208A75E200F58EA6 /* Woolworth corbel.png in Resources */,
+				41D9263F208BDB0E00053892 /* InfoScreen.png in Resources */,
 				C4B3421C208A75BD00F58EA6 /* John Gotti mugshot.png in Resources */,
 				C4B341F3208A757C00F58EA6 /* Castle Clinton.png in Resources */,
 				C485174211AF5C7900549246 /* PinDRed8.png in Resources */,
@@ -820,21 +839,24 @@
 				C4B34248208A75E200F58EA6 /* Trinity Church.png in Resources */,
 				C485184111B0A41C00549246 /* bp_btn2.png in Resources */,
 				C4ACDEAF1D81C3DD0023D71F /* table10.png in Resources */,
+				41D92639208BDAE600053892 /* InfoScreen480.png in Resources */,
 				C4B34223208A75BD00F58EA6 /* NYSE doors.png in Resources */,
 				C4B34200208A759200F58EA6 /* Colony Map from 1600s.png in Resources */,
 				C485184311B0A42B00549246 /* volume_up.png in Resources */,
 				C485184611B0A43B00549246 /* Infobutton.png in Resources */,
 				C4B3421D208A75BD00F58EA6 /* John Roebling.png in Resources */,
-				C4248D2A1AFA54DB0063D337 /* forward12.png in Resources */,
 				C4B341EC208A757C00F58EA6 /* Astronauts ring bell.png in Resources */,
+				41D92641208BDB5700053892 /* InfoScreen-568h@2x.png in Resources */,
 				C4B34201208A759200F58EA6 /* Customs House.png in Resources */,
+				4155CE39208CC42600B78E8C /* Icon114.png in Resources */,
 				C4851B2011B4864000549246 /* TableViewIcon.png in Resources */,
+				41D9262B208BACD200053892 /* Diane320.png in Resources */,
 				C4851B2211B4864A00549246 /* MapViewIcon.png in Resources */,
 				C4B341EB208A757C00F58EA6 /* African Burial Grounds.png in Resources */,
 				C41EFDDB11FE69A00026DD31 /* PinDRed9.png in Resources */,
 				C4ACDEA31D81C3A10023D71F /* table3.png in Resources */,
 				C4B341FD208A759200F58EA6 /* Chinatown.png in Resources */,
-				C4B3420C208A75A800F58EA6 /* Guilliani and Rumsfeld.png in Resources */,
+				C4B3420C208A75A800F58EA6 /* Guiliani and Rumsfeld.png in Resources */,
 				C41EFDDC11FE69A00026DD31 /* PinDRed10.png in Resources */,
 				C4B34220208A75BD00F58EA6 /* Memorial pools.png in Resources */,
 				C41EFDDD11FE69A00026DD31 /* PinDRed11.png in Resources */,
@@ -853,11 +875,12 @@
 				C4B9594415696C8F000BF4FB /* DirectionsViewController.xib in Resources */,
 				C4B9594515696C8F000BF4FB /* HelpViewController.xib in Resources */,
 				C4B9594615696C8F000BF4FB /* AboutViewController.xib in Resources */,
-				C4B34237208A75D300F58EA6 /* Statue of Liberty Head.png in Resources */,
+				C4B34237208A75D300F58EA6 /* Statue of Liberty head.png in Resources */,
 				C4B34224208A75BD00F58EA6 /* One World Trade Center.png in Resources */,
 				C4B9594D15696CAD000BF4FB /* PageSixViewController.xib in Resources */,
 				C4B34221208A75BD00F58EA6 /* Nancy Reagan.png in Resources */,
-				C4B341FE208A759200F58EA6 /* City Hall - Council Chamber.png in Resources */,
+				4168FD0B208A8B68008DB2AC /* forward12.png in Resources */,
+				C4B341FE208A759200F58EA6 /* City Hall - council chamber.png in Resources */,
 				C4B3424C208A75E200F58EA6 /* Washington Inauguration.png in Resources */,
 				C4B9594E15696CAD000BF4FB /* PageSevenViewController.xib in Resources */,
 				C4B9594F15696CAD000BF4FB /* PageEightViewController.xib in Resources */,
@@ -865,7 +888,6 @@
 				C4B341EA208A757C00F58EA6 /* 1913 View.png in Resources */,
 				C4B341FC208A759200F58EA6 /* Chinatown shops.png in Resources */,
 				C4ACDEAD1D81C3D40023D71F /* table9.png in Resources */,
-				C4E8FBE31D89992200C12924 /* Default@2x.png in Resources */,
 				C4B9595115696CAD000BF4FB /* PageTenViewController.xib in Resources */,
 				C4B9595215696CAD000BF4FB /* PageElevenViewController.xib in Resources */,
 				C4B95A2D156978A2000BF4FB /* PageOneViewController.xib in Resources */,
@@ -877,19 +899,17 @@
 				C43EC882160808F00025700D /* PageTwelveViewController.xib in Resources */,
 				C4B341F0208A757C00F58EA6 /* Brooklyn Bridge arches.png in Resources */,
 				C4B341EE208A757C00F58EA6 /* Boss Tweed.png in Resources */,
+				41D92631208BC9A000053892 /* InfoScreenOld-568h@2x.png in Resources */,
+				4168FD09208A8B5B008DB2AC /* back12.png in Resources */,
 				C4E8FBFB1D899C9100C12924 /* Icon57.png in Resources */,
 				C43EC8891608090E0025700D /* PageThirteenViewController.xib in Resources */,
 				C43EC890160809220025700D /* PageFourteenViewController.xib in Resources */,
 				C4B34209208A75A800F58EA6 /* Federal Hall.png in Resources */,
-				C4248D561AFBC1E50063D337 /* Images.xcassets in Resources */,
 				C4B3420B208A75A800F58EA6 /* Frederic Bartholdi.png in Resources */,
-				C4248D281AFA54D20063D337 /* back12.png in Resources */,
 				C4ACDEC11D81CCE30023D71F /* table4.png in Resources */,
 				C4B3423A208A75D300F58EA6 /* Ten dollar bill.png in Resources */,
 				C4ACDEA51D81C3A90023D71F /* table5.png in Resources */,
 				C4ACDEBF1D81CCD50023D71F /* table13.png in Resources */,
-				C4B35E0A1D89C22100EBC0B4 /* InfoScreen.png in Resources */,
-				C4E8FBE11D89991000C12924 /* Default.png in Resources */,
 				C4ACDEB71D81C40E0023D71F /* table12.png in Resources */,
 				C4B3420D208A75A800F58EA6 /* Hamilton gravemarker.png in Resources */,
 				C4B34239208A75D300F58EA6 /* Survivor Tree.png in Resources */,
@@ -906,6 +926,7 @@
 				C4B3424E208A75E200F58EA6 /* Woolworth Building.png in Resources */,
 				C4B3424A208A75E200F58EA6 /* Wall Street bombing.png in Resources */,
 				C4A800C91639B5F100689442 /* audiosite6.mp3 in Resources */,
+				41D92629208BA7E900053892 /* Images.xcassets in Resources */,
 				C4A800CB1639B5FA00689442 /* audiosite7.mp3 in Resources */,
 				C4B341ED208A757C00F58EA6 /* Bank of Manhattan 1930.png in Resources */,
 				C4A800CD1639B60400689442 /* audiosite8.mp3 in Resources */,
@@ -926,6 +947,7 @@
 				C43CDB301650333C00699E8C /* PinDRed14.png in Resources */,
 				C4ACDEA11D81C3950023D71F /* table2.png in Resources */,
 				C4B3421B208A75BD00F58EA6 /* James Watson House.png in Resources */,
+				41D9262F208BC99300053892 /* InfoScreenold.png in Resources */,
 				C4ACDE9D1D81C36C0023D71F /* table1.png in Resources */,
 				C4ACDEA71D81C3B90023D71F /* table6.png in Resources */,
 			);
@@ -1041,22 +1063,29 @@
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = NYCSights;
 				PRODUCT_NAME = "NYC Sights";
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				WRAPPER_EXTENSION = app;
@@ -1066,20 +1095,27 @@
 		1D6058950D05DD3E006BFB54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = NYCSights;
 				PRODUCT_NAME = "NYC Sights";
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				WRAPPER_EXTENSION = app;
@@ -1090,14 +1126,40 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "NYC History";
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALID_ARCHS = "arm64 armv7 armv7s";
@@ -1108,13 +1170,38 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
@@ -1124,14 +1211,39 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "NYC History";
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
@@ -1140,20 +1252,27 @@
 		C4F1095411E81469003EAFD2 /* Distribution */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = NYCSights;
 				PRODUCT_NAME = "NYC Sights";
-				PROVISIONING_PROFILE = "b9c4c149-1ba9-4c66-8229-134492c9062a";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "b9c4c149-1ba9-4c66-8229-134492c9062a";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				WRAPPER_EXTENSION = app;

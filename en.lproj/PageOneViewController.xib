@@ -1,640 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="7.10">
-	<data>
-		<int key="IBDocument.SystemTarget">768</int>
-		<string key="IBDocument.SystemVersion">12C60</string>
-		<string key="IBDocument.InterfaceBuilderVersion">2844</string>
-		<string key="IBDocument.AppKitVersion">1187.34</string>
-		<string key="IBDocument.HIToolboxVersion">625.00</string>
-		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			<string key="NS.object.0">1930</string>
-		</object>
-		<object class="NSArray" key="IBDocument.IntegratedClassDependencies">
-			<bool key="EncodedWithXMLCoder">YES</bool>
-			<string>IBProxyObject</string>
-			<string>IBUIButton</string>
-			<string>IBUILabel</string>
-			<string>IBUIScrollView</string>
-			<string>IBUIView</string>
-		</object>
-		<object class="NSArray" key="IBDocument.PluginDependencies">
-			<bool key="EncodedWithXMLCoder">YES</bool>
-			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-		</object>
-		<object class="NSMutableDictionary" key="IBDocument.Metadata">
-			<string key="NS.key.0">PluginDependencyRecalculationVersion</string>
-			<integer value="1" key="NS.object.0"/>
-		</object>
-		<object class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
-			<bool key="EncodedWithXMLCoder">YES</bool>
-			<object class="IBProxyObject" id="841351856">
-				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBProxyObject" id="991829081">
-				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-			<object class="IBUIView" id="518503493">
-				<reference key="NSNextResponder"/>
-				<int key="NSvFlags">269</int>
-				<object class="NSMutableArray" key="NSSubviews">
-					<bool key="EncodedWithXMLCoder">YES</bool>
-					<object class="IBUIScrollView" id="550445581">
-						<reference key="NSNextResponder" ref="518503493"/>
-						<int key="NSvFlags">274</int>
-						<object class="NSMutableArray" key="NSSubviews">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<object class="IBUILabel" id="656908826">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{0, 213}, {331, 29}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<object class="NSColor" key="IBUIBackgroundColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MCAwLjE0OTAxOTYwNzggMC4zOTIxNTY4NjI3AA</bytes>
-								</object>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">7</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string key="IBUIText">  1. Statue of Liberty</string>
-								<object class="NSColor" key="IBUITextColor" id="189004297">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MQA</bytes>
-								</object>
-								<nil key="IBUIHighlightedColor"/>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<object class="IBUIFontDescription" key="IBUIFontDescription">
-									<string key="name">Georgia</string>
-									<string key="family">Georgia</string>
-									<int key="traits">0</int>
-									<double key="pointSize">17</double>
-								</object>
-								<object class="NSFont" key="IBUIFont">
-									<string key="NSName">Georgia</string>
-									<double key="NSSize">17</double>
-									<int key="NSfFlags">16</int>
-								</object>
-							</object>
-							<object class="IBUILabel" id="362756940">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{13, 353}, {300, 300}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<object class="NSColor" key="IBUIBackgroundColor" id="70140066">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MCAwAA</bytes>
-								</object>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">V2l0aCB0aGVzZSB3b3JkcyBvZiBmcmVlZG9tLCBMYWR5IExpYmVydHkgd2VsY29tZWQgbW9yZSB0aGFu
-IDEzIG1pbGxpb24gaW1taWdyYW50cyB0byB0aGUgTmV3IFlvcmsgaGFyYm9yLiBUaG91Z2ggdGhlIGlt
-bWlncmF0aW9uIGRlcG90IGlzIG5vIGxvbmdlciBhY3RpdmUsIHNoZSBzdGlsbCBoYXMgYWJvdXQgMyBt
-aWxsaW9uIHZpc2l0b3JzIGV2ZXJ5IHllYXIuDQ1JbiAxODcxLCBGcmVuY2ggc2N1bHB0b3IgRnJlZGVy
-aWMgQmFydGhvbGRpIHNhaWxlZCB0byB0aGUgVS5TLiB0byBwcm9wb3NlIGEgZ3JhbmQgc3RhdHVlIHRv
-IGdvdmVybm1lbnQgb2ZmaWNpYWxzLiBUaGUgc3RhdHVlIHdvdWxkIGJlIGEgZ2lmdCBmcm9tIHRoZSBw
-ZW9wbGUgb2YgRnJhbmNlIOKAkyBhIGdlc3R1cmUgb2YgZnJpZW5kc2hpcCDigJMgYXMgbG9uZyBhcyB0
-aGUgVS5TLiB3b3VsZCBzZWN1cmUgYSBzaWdodCBhbmQgYnVpbGQgYSBwZWRlc3RhbC4gQXMgQmFydGhv
-bGRpIHBhc3NlZCBieSBMaWJlcnR5IElzbGFuZCAodGhlbiBrbm93biBhcyBCZWRsb2UgSXNsYW5kKSBo
-ZSBrbmV3IHRoYXQgd291bGQgYmUgdGhlIHBlcmZlY3Qgc3BvdC4NA</string>
-								<object class="NSColor" key="IBUITextColor" id="465662979">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MCAwIDAAA</bytes>
-									<string key="IBUIColorCocoaTouchKeyPath">darkTextColor</string>
-								</object>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<object class="IBUIFontDescription" key="IBUIFontDescription" id="311266852">
-									<string key="name">Georgia</string>
-									<string key="family">Georgia</string>
-									<int key="traits">0</int>
-									<double key="pointSize">16</double>
-								</object>
-								<object class="NSFont" key="IBUIFont" id="36231874">
-									<string key="NSName">Georgia</string>
-									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUIButton" id="637492802">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">294</int>
-								<string key="NSFrame">{{49, 1415}, {220, 282}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<string key="IBUINormalTitle">Statue of Liberty  Head</string>
-								<reference key="IBUIHighlightedTitleColor" ref="189004297"/>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<object class="NSColor" key="IBUINormalTitleShadowColor" id="419384681">
-									<int key="NSColorSpace">3</int>
-									<bytes key="NSWhite">MC41AA</bytes>
-								</object>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Statue of Liberty  Head.png</string>
-								</object>
-								<object class="IBUIFontDescription" key="IBUIFontDescription" id="665152987">
-									<string key="name">Helvetica-Bold</string>
-									<string key="family">Helvetica</string>
-									<int key="traits">2</int>
-									<double key="pointSize">15</double>
-								</object>
-								<object class="NSFont" key="IBUIFont" id="348999790">
-									<string key="NSName">Helvetica-Bold</string>
-									<double key="NSSize">15</double>
-									<int key="NSfFlags">16</int>
-								</object>
-							</object>
-							<object class="IBUIButton" id="578181555">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{54, 1988}, {209, 320}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<string key="IBUINormalTitle">Nancy Reagan</string>
-								<reference key="IBUIHighlightedTitleColor" ref="189004297"/>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<reference key="IBUINormalTitleShadowColor" ref="419384681"/>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Nancy Reagan.png</string>
-								</object>
-								<reference key="IBUIFontDescription" ref="665152987"/>
-								<reference key="IBUIFont" ref="348999790"/>
-							</object>
-							<object class="IBUILabel" id="53497097">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{13, 998}, {300, 395}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">QWZ0ZXIgeWVhcnMgb2YgZnVuZC1yYWlzaW5nIGluIGJvdGggdGhlIFUuUy4gYW5kIEZyYW5jZSwgc2Vj
-dXJpbmcgdGhlIHNpdGUsIGFuZCB0aGUgYWN0dWFsIGNvbnN0cnVjdGlvbiwgdGhlIFN0YXR1ZSBvZiBM
-aWJlcnR5IHdhcyBkZWRpY2F0ZWQgYnkgUHJlc2lkZW50IEdyb3ZlciBDbGV2ZWxhbmQgb24gT2N0b2Jl
-ciAyOCwgMTg4Ni4gVGhlIGh1Z2UgY2VsZWJyYXRpb24gaW5jbHVkZWQgdGhlIGZpcnN0IGV2ZXIgdGlj
-a2VyLXRhcGUgcGFyYWRlOiB0cmFkZXJzIGF0IHRoZSBOWVNFIHRocmV3IHRpY2tlciB0YXBlcyBvdXQg
-dGhlIHdpbmRvd3MgYXMgdGhlIHBhcmFkZSBwYXNzZWQgYnkuDQ1UaGUgZ3JhbmQgbGFkeSwgZm9ybWFs
-bHkgdGl0bGVkIFRoZSBTdGF0dWUgb2YgTGliZXJ0eSBFbmxpZ2h0ZW5pbmcgdGhlIFdvcmxkLCBpcyB0
-aGUgZ29kZGVzcyBvZiBmcmVlZG9tLCBMaWJlcnRhcy4gU2hlIHN0YW5kcyAxNTEgZmVldCB0YWxsLCBv
-ciAzMDUgZmVldCBoaWdoIGZyb20gdGhlIGdyb3VuZCB0byB0aGUgdGlwIG9mIGhlciB0b3JjaC4gVGhl
-IGJyb2tlbiBjaGFpbiBhdCBoZXIgZmVldCBzeW1ib2xpemVzIGZyZWVkb20sIHRoZSB0YWJsZXQgaW4g
-aGVyIGxlZnQgaGFuZCBsYXcsIGFuZCB0aGUgdG9yY2ggaW4gaGVyIHJpZ2h0IGhhbmQgcHJvZ3Jlc3Mu
-IFNoZSBpcyBvbmUgb2YgdGhlIGZpcnN0IGxhcmdlLXNjYWxlIGV4YW1wbGVzIG9mIOKAmGN1cnRhaW4g
-d2FsbOKAmSBjb25zdHJ1Y3Rpb246IHRoZSBleHRlcmlvciBpcyBub3QgbG9hZCBiZWFyaW5nLCB0aGUg
-aW50ZXJpb3IgZnJhbWUgaXMuDQ0</string>
-								<reference key="IBUITextColor" ref="465662979"/>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<reference key="IBUIFontDescription" ref="311266852"/>
-								<reference key="IBUIFont" ref="36231874"/>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUILabel" id="590553806">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{13, 1721}, {300, 250}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">VGhlIGFybSBob2xkaW5nIHRoZSB0b3JjaCBhbmQgaGVyIGhlYWQgd2VyZSBjb21wbGV0ZWQgZmlyc3Qu
-IFRoZXkgd2VyZSBkaXNwbGF5ZWQgaW4gUGhpbGFkZWxwaGlhLCBGcmFuY2UsIGFuZCBOZXcgWW9yayBi
-ZWZvcmUgdGhlIHJlc3Qgb2YgdGhlIHN0YXR1ZSB3YXMgZmluaXNoZWQsIGVuYWJsaW5nIHBlb3BsZSB0
-byBiZXR0ZXIgYXBwcmVjaWF0ZSB0aGUgbWFnbml0dWRlIG9mIHRoZSBzdGF0dWUuDQ1BZnRlciByZW5v
-dmF0aW9ucywgdGhlIHN0YXR1ZSB3YXMgcmUtb3BlbmVkIG9uIEp1bHkgNCwgMTk4Ni4gUm9uYWxkIFJl
-YWdhbuKAmXMgZGVkaWNhdGlvbiBzcGVlY2ggaW5jbHVkZWQgdGhlIHBvd2VyZnVsIHdvcmRzOiAiV2Ug
-YXJlIHRoZSBrZWVwZXJzIG9mIHRoZSBmbGFtZSBvZiBsaWJlcnR5OyB3ZSBob2xkIGl0IGhpZ2ggZm9y
-IHRoZSB3b3JsZCB0byBzZWUuIg0</string>
-								<reference key="IBUITextColor" ref="465662979"/>
-								<object class="NSColor" key="IBUIHighlightedColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MSAwIDAgMAA</bytes>
-								</object>
-								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<reference key="IBUIFontDescription" ref="311266852"/>
-								<reference key="IBUIFont" ref="36231874"/>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">300</double>
-							</object>
-							<object class="IBUILabel" id="944388137">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{20, 258}, {280, 80}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<int key="IBUIContentMode">9</int>
-								<bool key="IBUIUserInteractionEnabled">NO</bool>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<string type="base64-UTF8" key="IBUIText">4oCcR2l2ZSBtZSB5b3VyIHRpcmVkLCB5b3VyIHBvb3IsIFlvdXIgaHVkZGxlZCBtYXNzZXMgeWVhcm5p
-bmcgdG8gYnJlYXRoZSBmcmVl4oCm4oCdIFvigJxUaGUgTmV3IENvbG9zc3Vz4oCdLCBFbW1hIExhemFy
-dXMsIDE4ODNdDQ</string>
-								<object class="NSColor" key="IBUITextColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMgMC4yMDAwMDAwMDMAA</bytes>
-								</object>
-								<nil key="IBUIHighlightedColor"/>
-								<string key="IBUIShadowOffset">{0, 0}</string>
-								<float key="IBUIMinimumFontSize">18</float>
-								<int key="IBUINumberOfLines">1000</int>
-								<int key="IBUILineBreakMode">0</int>
-								<object class="IBUIFontDescription" key="IBUIFontDescription">
-									<string key="name">Georgia-Italic</string>
-									<string key="family">Georgia</string>
-									<int key="traits">1</int>
-									<double key="pointSize">16</double>
-								</object>
-								<object class="NSFont" key="IBUIFont">
-									<string key="NSName">Georgia-Italic</string>
-									<double key="NSSize">16</double>
-									<int key="NSfFlags">16</int>
-								</object>
-								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
-								<double key="preferredMaxLayoutWidth">280</double>
-							</object>
-							<object class="IBUIButton" id="725299496">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">292</int>
-								<string key="NSFrameSize">{320, 213}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<string key="IBUINormalTitle">Statue of Liberty</string>
-								<reference key="IBUIHighlightedTitleColor" ref="189004297"/>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<reference key="IBUINormalTitleShadowColor" ref="419384681"/>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Statue of Liberty.png</string>
-								</object>
-								<reference key="IBUIFontDescription" ref="665152987"/>
-								<reference key="IBUIFont" ref="348999790"/>
-							</object>
-							<object class="IBUIButton" id="717556690">
-								<reference key="NSNextResponder" ref="550445581"/>
-								<int key="NSvFlags">294</int>
-								<string key="NSFrame">{{60, 673}, {199, 300}}</string>
-								<reference key="NSSuperview" ref="550445581"/>
-								<reference key="IBUIBackgroundColor" ref="70140066"/>
-								<bool key="IBUIOpaque">NO</bool>
-								<bool key="IBUIClipsSubviews">YES</bool>
-								<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-								<int key="IBUIContentMode">1</int>
-								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-								<int key="IBUIContentHorizontalAlignment">0</int>
-								<int key="IBUIContentVerticalAlignment">0</int>
-								<string key="IBUINormalTitle">Frederic Bartholdi</string>
-								<reference key="IBUIHighlightedTitleColor" ref="189004297"/>
-								<object class="NSColor" key="IBUINormalTitleColor">
-									<int key="NSColorSpace">1</int>
-									<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
-								</object>
-								<reference key="IBUINormalTitleShadowColor" ref="419384681"/>
-								<object class="NSCustomResource" key="IBUINormalImage">
-									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">Frederic Bartholdi.png</string>
-								</object>
-								<reference key="IBUIFontDescription" ref="665152987"/>
-								<reference key="IBUIFont" ref="348999790"/>
-							</object>
-						</object>
-						<string key="NSFrameSize">{320, 2455}</string>
-						<reference key="NSSuperview" ref="518503493"/>
-						<object class="NSColor" key="IBUIBackgroundColor">
-							<int key="NSColorSpace">1</int>
-							<bytes key="NSRGB">MSAxIDEAA</bytes>
-						</object>
-						<bool key="IBUIClipsSubviews">YES</bool>
-						<bool key="IBUIMultipleTouchEnabled">YES</bool>
-						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<bool key="IBUIBounces">NO</bool>
-						<bool key="IBUIBouncesZoom">NO</bool>
-					</object>
-				</object>
-				<string key="NSFrameSize">{320, 2450}</string>
-				<reference key="NSSuperview"/>
-				<object class="NSColor" key="IBUIBackgroundColor">
-					<int key="NSColorSpace">3</int>
-					<bytes key="NSWhite">MQA</bytes>
-					<object class="NSColorSpace" key="NSCustomColorSpace">
-						<int key="NSID">2</int>
-					</object>
-				</object>
-				<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
-				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-			</object>
-		</object>
-		<object class="IBObjectContainer" key="IBDocument.Objects">
-			<object class="NSMutableArray" key="connectionRecords">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">scrollView</string>
-						<reference key="source" ref="841351856"/>
-						<reference key="destination" ref="550445581"/>
-					</object>
-					<int key="connectionID">17</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">view</string>
-						<reference key="source" ref="841351856"/>
-						<reference key="destination" ref="518503493"/>
-					</object>
-					<int key="connectionID">24</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">delegate</string>
-						<reference key="source" ref="550445581"/>
-						<reference key="destination" ref="518503493"/>
-					</object>
-					<int key="connectionID">96</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="725299496"/>
-						<reference key="destination" ref="841351856"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">33</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="637492802"/>
-						<reference key="destination" ref="841351856"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">86</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="578181555"/>
-						<reference key="destination" ref="841351856"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">89</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">photoTapped:</string>
-						<reference key="source" ref="717556690"/>
-						<reference key="destination" ref="841351856"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">98</int>
-				</object>
-			</object>
-			<object class="IBMutableOrderedSet" key="objectRecords">
-				<object class="NSArray" key="orderedObjects">
-					<bool key="EncodedWithXMLCoder">YES</bool>
-					<object class="IBObjectRecord">
-						<int key="objectID">0</int>
-						<object class="NSArray" key="object" id="0">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-						</object>
-						<reference key="children" ref="1000"/>
-						<nil key="parent"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-1</int>
-						<reference key="object" ref="841351856"/>
-						<reference key="parent" ref="0"/>
-						<string key="objectName">File's Owner</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">10</int>
-						<reference key="object" ref="518503493"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="550445581"/>
-						</object>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">-2</int>
-						<reference key="object" ref="991829081"/>
-						<reference key="parent" ref="0"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">15</int>
-						<reference key="object" ref="550445581"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="362756940"/>
-							<reference ref="944388137"/>
-							<reference ref="725299496"/>
-							<reference ref="656908826"/>
-							<reference ref="717556690"/>
-							<reference ref="53497097"/>
-							<reference ref="637492802"/>
-							<reference ref="590553806"/>
-							<reference ref="578181555"/>
-						</object>
-						<reference key="parent" ref="518503493"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">29</int>
-						<reference key="object" ref="362756940"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">84</int>
-						<reference key="object" ref="53497097"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">85</int>
-						<reference key="object" ref="637492802"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">87</int>
-						<reference key="object" ref="590553806"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">88</int>
-						<reference key="object" ref="578181555"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">23</int>
-						<reference key="object" ref="656908826"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">92</int>
-						<reference key="object" ref="944388137"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">32</int>
-						<reference key="object" ref="725299496"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">97</int>
-						<reference key="object" ref="717556690"/>
-						<reference key="parent" ref="550445581"/>
-					</object>
-				</object>
-			</object>
-			<object class="NSMutableDictionary" key="flattenedProperties">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<object class="NSArray" key="dict.sortedKeys">
-					<bool key="EncodedWithXMLCoder">YES</bool>
-					<string>-1.CustomClassName</string>
-					<string>-1.IBPluginDependency</string>
-					<string>-2.CustomClassName</string>
-					<string>-2.IBPluginDependency</string>
-					<string>10.IBPluginDependency</string>
-					<string>15.IBPluginDependency</string>
-					<string>15.IBUserGuides</string>
-					<string>23.IBPluginDependency</string>
-					<string>29.IBPluginDependency</string>
-					<string>32.IBPluginDependency</string>
-					<string>84.IBPluginDependency</string>
-					<string>85.IBPluginDependency</string>
-					<string>87.IBPluginDependency</string>
-					<string>88.IBPluginDependency</string>
-					<string>92.IBPluginDependency</string>
-					<string>97.IBPluginDependency</string>
-				</object>
-				<object class="NSArray" key="dict.values">
-					<bool key="EncodedWithXMLCoder">YES</bool>
-					<string>PageOneViewController</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>UIResponder</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<reference ref="0"/>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				</object>
-			</object>
-			<object class="NSMutableDictionary" key="unlocalizedProperties">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<reference key="dict.sortedKeys" ref="0"/>
-				<reference key="dict.values" ref="0"/>
-			</object>
-			<nil key="activeLocalization"/>
-			<object class="NSMutableDictionary" key="localizations">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<reference key="dict.sortedKeys" ref="0"/>
-				<reference key="dict.values" ref="0"/>
-			</object>
-			<nil key="sourceID"/>
-			<int key="maxID">98</int>
-		</object>
-		<object class="IBClassDescriber" key="IBDocument.Classes"/>
-		<int key="IBDocument.localizationMode">0</int>
-		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencies">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
-			<integer value="768" key="NS.object.0"/>
-		</object>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencyDefaults">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
-			<real value="1536" key="NS.object.0"/>
-		</object>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
-			<integer value="3000" key="NS.object.0"/>
-		</object>
-		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
-		<int key="IBDocument.defaultPropertyAccessControl">3</int>
-		<object class="NSMutableDictionary" key="IBDocument.LastKnownImageSizes">
-			<bool key="EncodedWithXMLCoder">YES</bool>
-			<object class="NSArray" key="dict.sortedKeys">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<string>Frederic Bartholdi.png</string>
-				<string>Nancy Reagan.png</string>
-				<string>Statue of Liberty  Head.png</string>
-				<string>Statue of Liberty.png</string>
-			</object>
-			<object class="NSArray" key="dict.values">
-				<bool key="EncodedWithXMLCoder">YES</bool>
-				<string>{318, 480}</string>
-				<string>{314, 480}</string>
-				<string>{220, 282}</string>
-				<string>{320, 213}</string>
-			</object>
-		</object>
-		<string key="IBCocoaTouchPluginVersion">1930</string>
-	</data>
-</archive>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageOneViewController">
+            <connections>
+                <outlet property="scrollView" destination="15" id="17"/>
+                <outlet property="view" destination="10" id="24"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="10">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="2450"/>
+            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="15">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="2455"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" misplaced="YES" text="  1. Statue of Liberty" lineBreakMode="tailTruncation" minimumFontSize="10" id="23">
+                            <rect key="frame" x="0.0" y="213" width="320" height="29"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.14901960780000001" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="29">
+                            <rect key="frame" x="10" y="353" width="300" height="310"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">With these words of freedom, Lady Liberty welcomed more than 13 million immigrants to the New York harbor. Though the immigration depot is no longer active, she still has about 3 million visitors every year.
+
+In 1871, French sculptor Frederic Bartholdi sailed to the U.S. to propose a grand statue to government officials. The statue would be a gift from the people of France – a gesture of friendship – as long as the U.S. would secure a sight and build a pedestal. As Bartholdi passed by Liberty Island (then known as Bedloe Island) he knew that would be the perfect spot.
+</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="85">
+                            <rect key="frame" x="49" y="1410" width="220" height="282"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Statue of Liberty head" image="Statue of Liberty head.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="86"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="88">
+                            <rect key="frame" x="54" y="1984" width="209" height="320"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Nancy Reagan" image="Nancy Reagan.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="89"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="84">
+                            <rect key="frame" x="10" y="994" width="300" height="395"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">After years of fund-raising in both the U.S. and France, securing the site, and the actual construction, the Statue of Liberty was dedicated by President Grover Cleveland on October 28, 1886. The huge celebration included the first ever ticker-tape parade: traders at the NYSE threw ticker tapes out the windows as the parade passed by.
+
+The grand lady, formally titled The Statue of Liberty Enlightening the World, is the goddess of freedom, Libertas. She stands 151 feet tall, or 305 feet high from the ground to the tip of her torch. The broken chain at her feet symbolizes freedom, the tablet in her left hand law, and the torch in her right hand progress. She is one of the first large-scale examples of ‘curtain wall’ construction: the exterior is not load bearing, the interior frame is.
+
+</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="87">
+                            <rect key="frame" x="10" y="1716" width="300" height="250"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">The arm holding the torch and her head were completed first. They were displayed in Philadelphia, France, and New York before the rest of the statue was finished, enabling people to better appreciate the magnitude of the statue.
+
+After renovations, the statue was re-opened on July 4, 1986. Ronald Reagan’s dedication speech included the powerful words: "We are the keepers of the flame of liberty; we hold it high for the world to see."
+</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="92">
+                            <rect key="frame" x="20" y="258" width="280" height="80"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">“Give me your tired, your poor, Your huddled masses yearning to breathe free…” [“The New Colossus”, Emma Lazarus, 1883]
+</string>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <size key="shadowOffset" width="0.0" height="0.0"/>
+                        </label>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="32">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="213"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Statue of Liberty" image="Statue of Liberty.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="33"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="97">
+                            <rect key="frame" x="60" y="673" width="199" height="300"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Frederic Bartholdi" image="Frederic Bartholdi.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="98"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="delegate" destination="10" id="96"/>
+                    </connections>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Frederic Bartholdi.png" width="300" height="452"/>
+        <image name="Nancy Reagan.png" width="300" height="458"/>
+        <image name="Statue of Liberty head.png" width="220" height="282"/>
+        <image name="Statue of Liberty.png" width="640" height="427"/>
+    </resources>
+</document>

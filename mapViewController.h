@@ -11,13 +11,15 @@
 #import <MapKit/MKAnnotation.h>
 #import "wwAnnotation.h"
 #import "wwAnnotationView.h"
+#import <CoreLocation/CoreLocation.h>
 
 @class PageOneViewController;
 
-@interface mapViewController : UIViewController <MKMapViewDelegate> {
+@interface mapViewController : UIViewController <MKMapViewDelegate, CLLocationManagerDelegate> {
 
 	IBOutlet MKMapView *mapView;
-
+    CLLocationManager *locationManager;
+    
 	CLLocationCoordinate2D location;
 	PageOneViewController *childController;
 	BOOL mapSettingsShowing;  //NEED TO IMPLEMENT WHEN LOAD THE OTHER METHODS
@@ -25,6 +27,7 @@
 }
 
 @property (nonatomic, retain) IBOutlet MKMapView *mapView;
+@property (nonatomic, strong) CLLocationManager *locationManager;
 
 - (IBAction)showLinks:(id)sender;
 - (IBAction)toggleMapSettingsView;
